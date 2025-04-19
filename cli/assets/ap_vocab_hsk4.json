@@ -1,0 +1,5377 @@
+{
+  "爱情": {
+    "simplified": "爱情",
+    "traditional": "愛情",
+    "pinyin": "ai4 qing2",
+    "definitions": [
+      "love (romantic)"
+    ],
+    "frequency": 5.681663037675805e-05
+  },
+  "安排": {
+    "simplified": "安排",
+    "traditional": "安排",
+    "pinyin": "an1 pai2",
+    "definitions": [
+      "to arrange"
+    ],
+    "frequency": 0.00011256012397829927
+  },
+  "安全": {
+    "simplified": "安全",
+    "traditional": "安全",
+    "pinyin": "an1 quan2",
+    "definitions": [
+      "safety"
+    ],
+    "frequency": 0.00028441105478732874
+  },
+  "按时": {
+    "simplified": "按时",
+    "traditional": "按時",
+    "pinyin": "an4 shi2",
+    "definitions": [
+      "on time"
+    ],
+    "frequency": 7.124435813245107e-06
+  },
+  "按照": {
+    "simplified": "按照",
+    "traditional": "按照",
+    "pinyin": "an4 zhao4",
+    "definitions": [
+      "according to"
+    ],
+    "frequency": 3.595008196976401e-05
+  },
+  "百分之": {
+    "simplified": "百分之",
+    "traditional": "百分之",
+    "pinyin": "bai3 fen1 zhi1",
+    "definitions": [
+      "percent"
+    ],
+    "frequency": 1.0135180654825675e-06
+  },
+  "棒": {
+    "simplified": "棒",
+    "traditional": "棒",
+    "pinyin": "bang4",
+    "definitions": [
+      "great"
+    ],
+    "frequency": 0.0005441101543898031
+  },
+  "包子": {
+    "simplified": "包子",
+    "traditional": "包子",
+    "pinyin": "bao1 zi5",
+    "definitions": [
+      "steamed (stuffed) bun"
+    ],
+    "frequency": 7.750432265454928e-07
+  },
+  "保护": {
+    "simplified": "保护",
+    "traditional": "保護",
+    "pinyin": "bao3 hu4",
+    "definitions": [
+      "to protect"
+    ],
+    "frequency": 0.000211467563427451
+  },
+  "保证": {
+    "simplified": "保证",
+    "traditional": "保證",
+    "pinyin": "bao3 zheng4",
+    "definitions": [
+      "to guarantee"
+    ],
+    "frequency": 0.00022401730182651457
+  },
+  "报名": {
+    "simplified": "报名",
+    "traditional": "報名",
+    "pinyin": "bao4 ming2",
+    "definitions": [
+      "to sign up (for)"
+    ],
+    "frequency": 6.468630006168152e-06
+  },
+  "抱": {
+    "simplified": "抱",
+    "traditional": "抱",
+    "pinyin": "bao4",
+    "definitions": [
+      "to hold, to hug"
+    ],
+    "frequency": 6.674314554751379e-05
+  },
+  "抱歉": {
+    "simplified": "抱歉",
+    "traditional": "抱歉",
+    "pinyin": "bao4 qian4",
+    "definitions": [
+      "to be sorry; to feel apologetic; sorry"
+    ],
+    "frequency": 0.0006427791190000177
+  },
+  "倍": {
+    "simplified": "倍",
+    "traditional": "倍",
+    "pinyin": "bei4",
+    "definitions": [
+      "times (the amount), -fold"
+    ],
+    "frequency": 4.376013294495321e-05
+  },
+  "本来": {
+    "simplified": "本来",
+    "traditional": "本來",
+    "pinyin": "ben3 lai2",
+    "definitions": [
+      "originally"
+    ],
+    "frequency": 0.00013160830173839812
+  },
+  "笨": {
+    "simplified": "笨",
+    "traditional": "笨",
+    "pinyin": "ben4",
+    "definitions": [
+      "stupid"
+    ],
+    "frequency": 4.170328745912094e-05
+  },
+  "比如": {
+    "simplified": "比如",
+    "traditional": "比如",
+    "pinyin": "bi3 ru2",
+    "definitions": [
+      "for example"
+    ],
+    "frequency": 9.300518718545914e-05
+  },
+  "毕业": {
+    "simplified": "毕业",
+    "traditional": "畢業",
+    "pinyin": "bi4 ye4",
+    "definitions": [
+      "to graduate"
+    ],
+    "frequency": 4.882772327236605e-05
+  },
+  "遍": {
+    "simplified": "遍",
+    "traditional": "徧",
+    "pinyin": "bian4",
+    "definitions": [
+      "time(s) [measure word for counting actions from start to finish]"
+    ],
+    "frequency": 0.00012573585882957265
+  },
+  "标准": {
+    "simplified": "标准",
+    "traditional": "標準",
+    "pinyin": "biao1 zhun3",
+    "definitions": [
+      "standard"
+    ],
+    "frequency": 3.276048099898064e-05
+  },
+  "表格": {
+    "simplified": "表格",
+    "traditional": "表格",
+    "pinyin": "biao3 ge2",
+    "definitions": [
+      "form, table"
+    ],
+    "frequency": 1.0015943235357138e-05
+  },
+  "表示": {
+    "simplified": "表示",
+    "traditional": "表示",
+    "pinyin": "biao3 shi4",
+    "definitions": [
+      "to show, to indicate"
+    ],
+    "frequency": 5.2494273921023575e-05
+  },
+  "表演": {
+    "simplified": "表演",
+    "traditional": "表演",
+    "pinyin": "biao3 yan3",
+    "definitions": [
+      "to perform; to act; to demonstrate"
+    ],
+    "frequency": 0.00019847068470538044
+  },
+  "表扬": {
+    "simplified": "表扬",
+    "traditional": "表揚",
+    "pinyin": "biao3 yang2",
+    "definitions": [
+      "to praise; to commend"
+    ],
+    "frequency": 3.815597422993196e-06
+  },
+  "饼干": {
+    "simplified": "饼干",
+    "traditional": "餅乾",
+    "pinyin": "bing3 gan1",
+    "definitions": [
+      "cracker, cookie"
+    ],
+    "frequency": 3.171715357863094e-05
+  },
+  "并且": {
+    "simplified": "并且",
+    "traditional": "並且",
+    "pinyin": "bing4 qie3",
+    "definitions": [
+      "and besides, moreover"
+    ],
+    "frequency": 0.00013083325851185262
+  },
+  "博士": {
+    "simplified": "博士",
+    "traditional": "博士",
+    "pinyin": "bo2 shi4",
+    "definitions": [
+      "Ph.D. (degree); doctor"
+    ],
+    "frequency": 0.00014549946110648272
+  },
+  "不得不": {
+    "simplified": "不得不",
+    "traditional": "不得不",
+    "pinyin": "bu4 de2 bu4",
+    "definitions": [
+      "have no choice but"
+    ],
+    "frequency": 8.215458201382224e-05
+  },
+  "不管": {
+    "simplified": "不管",
+    "traditional": "不管",
+    "pinyin": "bu4 guan3",
+    "definitions": [
+      "no matter (what, how)"
+    ],
+    "frequency": 0.00021418021472036024
+  },
+  "不过": {
+    "simplified": "不过",
+    "traditional": "不過",
+    "pinyin": "bu4 guo4",
+    "definitions": [
+      "but, yet"
+    ],
+    "frequency": 0.0006955416771148456
+  },
+  "不仅": {
+    "simplified": "不仅",
+    "traditional": "不僅",
+    "pinyin": "bu4 jin3",
+    "definitions": [
+      "not only (this one);not just (...) but also"
+    ],
+    "frequency": 3.174696293349807e-05
+  },
+  "部分": {
+    "simplified": "部分",
+    "traditional": "部分",
+    "pinyin": "bu4 fen5",
+    "definitions": [
+      "part, section"
+    ],
+    "frequency": 0.00015596254466484686
+  },
+  "擦": {
+    "simplified": "擦",
+    "traditional": "擦",
+    "pinyin": "ca1",
+    "definitions": [
+      "to wipe, to scrub, to erase"
+    ],
+    "frequency": 4.367070488035181e-05
+  },
+  "猜": {
+    "simplified": "猜",
+    "traditional": "猜",
+    "pinyin": "cai1",
+    "definitions": [
+      "to guess"
+    ],
+    "frequency": 0.00019438680308858303
+  },
+  "材料": {
+    "simplified": "材料",
+    "traditional": "材料",
+    "pinyin": "cai2 liao4",
+    "definitions": [
+      "material"
+    ],
+    "frequency": 2.1820447762742338e-05
+  },
+  "参观": {
+    "simplified": "参观",
+    "traditional": "參觀",
+    "pinyin": "can1 guan1",
+    "definitions": [
+      "to visit; to tour"
+    ],
+    "frequency": 1.4397918400825886e-05
+  },
+  "餐厅": {
+    "simplified": "餐厅",
+    "traditional": "餐廳",
+    "pinyin": "can1 ting1",
+    "definitions": [
+      "restaurant"
+    ],
+    "frequency": 4.1494621975051e-05
+  },
+  "厕所": {
+    "simplified": "厕所",
+    "traditional": "廁所",
+    "pinyin": "ce4 suo3",
+    "definitions": [
+      "toilet, restroom"
+    ],
+    "frequency": 5.013933488651996e-05
+  },
+  "差不多": {
+    "simplified": "差不多",
+    "traditional": "差不多",
+    "pinyin": "cha4 bu5 duo1",
+    "definitions": [
+      "more or less, almost"
+    ],
+    "frequency": 9.914591428808881e-05
+  },
+  "长城": {
+    "simplified": "长城",
+    "traditional": "長城",
+    "pinyin": "Chang2 cheng2",
+    "definitions": [
+      "the Great Wall of China"
+    ],
+    "frequency": 2.027036130965135e-06
+  },
+  "长江": {
+    "simplified": "长江",
+    "traditional": "長江",
+    "pinyin": "Chang2 Jiang1",
+    "definitions": [
+      "the Yangtze River"
+    ],
+    "frequency": 2.980935486713434e-07
+  },
+  "尝": {
+    "simplified": "尝",
+    "traditional": "嘗",
+    "pinyin": "chang2",
+    "definitions": [
+      "to try (a food)"
+    ],
+    "frequency": 2.1880066472476605e-05
+  },
+  "场": {
+    "simplified": "场",
+    "traditional": "場",
+    "pinyin": "chang2",
+    "definitions": [
+      "[measure word for sports or entertainmnet events]"
+    ],
+    "frequency": 0.0003267999574083938
+  },
+  "超过": {
+    "simplified": "超过",
+    "traditional": "超過",
+    "pinyin": "chao1 guo4",
+    "definitions": [
+      "to surpass; to exceed; to outstrip"
+    ],
+    "frequency": 5.636949005375104e-05
+  },
+  "成功": {
+    "simplified": "成功",
+    "traditional": "成功",
+    "pinyin": "Cheng2 gong1",
+    "definitions": [
+      "to succeed"
+    ],
+    "frequency": 0.00018794798243728202
+  },
+  "成为": {
+    "simplified": "成为",
+    "traditional": "成為",
+    "pinyin": "cheng2 wei2",
+    "definitions": [
+      "to be"
+    ],
+    "frequency": 0.0002992263041562945
+  },
+  "诚实": {
+    "simplified": "诚实",
+    "traditional": "誠實",
+    "pinyin": "cheng2 shi2",
+    "definitions": [
+      "honest"
+    ],
+    "frequency": 2.9690117447665802e-05
+  },
+  "乘坐": {
+    "simplified": "乘坐",
+    "traditional": "乘坐",
+    "pinyin": "cheng2 zuo4",
+    "definitions": [
+      "to ride (in a vehicle)"
+    ],
+    "frequency": 8.942806460140301e-06
+  },
+  "吃惊": {
+    "simplified": "吃惊",
+    "traditional": "吃驚",
+    "pinyin": "chi1 jing1",
+    "definitions": [
+      "to be surprised"
+    ],
+    "frequency": 3.6576078421973834e-05
+  },
+  "重新": {
+    "simplified": "重新",
+    "traditional": "重新",
+    "pinyin": "chong2 xin1",
+    "definitions": [
+      "all over again"
+    ],
+    "frequency": 0.00013822597851890193
+  },
+  "抽烟": {
+    "simplified": "抽烟",
+    "traditional": "抽煙",
+    "pinyin": "chou1 yan1",
+    "definitions": [
+      "to smoke"
+    ],
+    "frequency": 2.629185099281249e-05
+  },
+  "出差": {
+    "simplified": "出差",
+    "traditional": "出差",
+    "pinyin": "chu1 chai1",
+    "definitions": [
+      "to go on a business trip"
+    ],
+    "frequency": 7.69081355572066e-06
+  },
+  "出发": {
+    "simplified": "出发",
+    "traditional": "出發",
+    "pinyin": "chu1 fa1",
+    "definitions": [
+      "to depart, to set off"
+    ],
+    "frequency": 7.479167136164006e-05
+  },
+  "出生": {
+    "simplified": "出生",
+    "traditional": "出生",
+    "pinyin": "chu1 sheng1",
+    "definitions": [
+      "to be born"
+    ],
+    "frequency": 5.22557990820865e-05
+  },
+  "出现": {
+    "simplified": "出现",
+    "traditional": "出現",
+    "pinyin": "chu1 xian4",
+    "definitions": [
+      "to appear"
+    ],
+    "frequency": 0.00021826409633715765
+  },
+  "厨房": {
+    "simplified": "厨房",
+    "traditional": "廚房",
+    "pinyin": "chu2 fang2",
+    "definitions": [
+      "kitchen"
+    ],
+    "frequency": 4.838058294935903e-05
+  },
+  "传真": {
+    "simplified": "传真",
+    "traditional": "傳真",
+    "pinyin": "chuan2 zhen1",
+    "definitions": [
+      "to send by fax"
+    ],
+    "frequency": 7.5417667813849875e-06
+  },
+  "窗户": {
+    "simplified": "窗户",
+    "traditional": "窗戶",
+    "pinyin": "chuang1 hu5",
+    "definitions": [
+      "window"
+    ],
+    "frequency": 4.074938810337264e-05
+  },
+  "词语": {
+    "simplified": "词语",
+    "traditional": "詞語",
+    "pinyin": "ci2 yu3",
+    "definitions": [
+      "word, expression"
+    ],
+    "frequency": 3.994453552196001e-06
+  },
+  "从来": {
+    "simplified": "从来",
+    "traditional": "從來",
+    "pinyin": "cong2 lai2",
+    "definitions": [
+      "always; never (if used in negative sentence)"
+    ],
+    "frequency": 0.00025579407411487976
+  },
+  "粗心": {
+    "simplified": "粗心",
+    "traditional": "粗心",
+    "pinyin": "cu1 xin1",
+    "definitions": [
+      "careless, thoughtless"
+    ],
+    "frequency": 1.401039678755314e-06
+  },
+  "存": {
+    "simplified": "存",
+    "traditional": "存",
+    "pinyin": "cun2",
+    "definitions": [
+      "to save (money, computer files, etc.)"
+    ],
+    "frequency": 2.927278647952592e-05
+  },
+  "错误": {
+    "simplified": "错误",
+    "traditional": "錯誤",
+    "pinyin": "cuo4 wu4",
+    "definitions": [
+      "error, mistake; mistaken"
+    ],
+    "frequency": 0.00011861142301632754
+  },
+  "答案": {
+    "simplified": "答案",
+    "traditional": "答案",
+    "pinyin": "da2 an4",
+    "definitions": [
+      "answer"
+    ],
+    "frequency": 8.349600298284329e-05
+  },
+  "打扮": {
+    "simplified": "打扮",
+    "traditional": "打扮",
+    "pinyin": "da3 ban5",
+    "definitions": [
+      "to dress up, to make oneself up; to dress up (as)"
+    ],
+    "frequency": 2.9213167769791653e-05
+  },
+  "打扰": {
+    "simplified": "打扰",
+    "traditional": "打擾",
+    "pinyin": "da3 rao3",
+    "definitions": [
+      "to disturb, to bother, to trouble"
+    ],
+    "frequency": 9.813239622260624e-05
+  },
+  "打印": {
+    "simplified": "打印",
+    "traditional": "打印",
+    "pinyin": "da3 yin4",
+    "definitions": [
+      "to print"
+    ],
+    "frequency": 5.067590327412838e-06
+  },
+  "打招呼": {
+    "simplified": "打招呼",
+    "traditional": "打招呼",
+    "pinyin": "da3 zhao1 hu5",
+    "definitions": [
+      "to greet somebody"
+    ],
+    "frequency": 1.0045752590224272e-05
+  },
+  "打折": {
+    "simplified": "打折",
+    "traditional": "打折",
+    "pinyin": "da3 zhe2",
+    "definitions": [
+      "to give a discount"
+    ],
+    "frequency": 3.577122584056121e-06
+  },
+  "打针": {
+    "simplified": "打针",
+    "traditional": "打針",
+    "pinyin": "da3 zhen1",
+    "definitions": [
+      "to give or have an injection"
+    ],
+    "frequency": 3.785788068126061e-06
+  },
+  "大概": {
+    "simplified": "大概",
+    "traditional": "大概",
+    "pinyin": "da4 gai4",
+    "definitions": [
+      "roughly; probably; approximate"
+    ],
+    "frequency": 0.00014320414078171337
+  },
+  "大使馆": {
+    "simplified": "大使馆",
+    "traditional": "大使館",
+    "pinyin": "da4 shi3 guan3",
+    "definitions": [
+      "embassy"
+    ],
+    "frequency": 5.991680328294002e-06
+  },
+  "大约": {
+    "simplified": "大约",
+    "traditional": "大約",
+    "pinyin": "da4 yue1",
+    "definitions": [
+      "approximately; about"
+    ],
+    "frequency": 4.018301036089709e-05
+  },
+  "大夫": {
+    "simplified": "大夫",
+    "traditional": "大夫",
+    "pinyin": "da4 fu1",
+    "definitions": [
+      "doctor"
+    ],
+    "frequency": 1.9495318083105857e-05
+  },
+  "戴": {
+    "simplified": "戴",
+    "traditional": "戴",
+    "pinyin": "Dai4",
+    "definitions": [
+      "to carry; to wear (an accessory)"
+    ],
+    "frequency": 0.00011884989785526461
+  },
+  "当": {
+    "simplified": "当",
+    "traditional": "噹",
+    "pinyin": "dang1",
+    "definitions": [
+      "at the time of"
+    ],
+    "frequency": 0.000882923281809652
+  },
+  "当时": {
+    "simplified": "当时",
+    "traditional": "當時",
+    "pinyin": "dang1 shi2",
+    "definitions": [
+      "at that time"
+    ],
+    "frequency": 0.00020672787600357664
+  },
+  "刀": {
+    "simplified": "刀",
+    "traditional": "刀",
+    "pinyin": "Dao1",
+    "definitions": [
+      "knife"
+    ],
+    "frequency": 8.170744169081523e-05
+  },
+  "导游": {
+    "simplified": "导游",
+    "traditional": "導遊",
+    "pinyin": "dao3 you2",
+    "definitions": [
+      "tour guide"
+    ],
+    "frequency": 3.0405541964477027e-06
+  },
+  "到处": {
+    "simplified": "到处",
+    "traditional": "到處",
+    "pinyin": "dao4 chu4",
+    "definitions": [
+      "everywhere"
+    ],
+    "frequency": 0.00010466064493850866
+  },
+  "到底": {
+    "simplified": "到底",
+    "traditional": "到底",
+    "pinyin": "dao4 di3",
+    "definitions": [
+      "after all"
+    ],
+    "frequency": 0.0003020581928686723
+  },
+  "倒": {
+    "simplified": "倒",
+    "traditional": "倒",
+    "pinyin": "dao3",
+    "definitions": [
+      "to fall over"
+    ],
+    "frequency": 0.0001815985898505824
+  },
+  "道歉": {
+    "simplified": "道歉",
+    "traditional": "道歉",
+    "pinyin": "dao4 qian4",
+    "definitions": [
+      "to apologize"
+    ],
+    "frequency": 0.000102514371388075
+  },
+  "得意": {
+    "simplified": "得意",
+    "traditional": "得意",
+    "pinyin": "de2 yi4",
+    "definitions": [
+      "proud of oneself; pleased with oneself; complacent"
+    ],
+    "frequency": 6.826342264573763e-06
+  },
+  "登机牌": {
+    "simplified": "登机牌",
+    "traditional": "登機牌",
+    "pinyin": "deng1 ji1 pai2",
+    "definitions": [
+      "boarding pass"
+    ],
+    "frequency": 8.644712911468958e-07
+  },
+  "低": {
+    "simplified": "低",
+    "traditional": "低",
+    "pinyin": "di1",
+    "definitions": [
+      "low"
+    ],
+    "frequency": 5.42530258581845e-05
+  },
+  "底": {
+    "simplified": "底",
+    "traditional": "底",
+    "pinyin": "de5",
+    "definitions": [
+      "bottom, base"
+    ],
+    "frequency": 0.00011700171785350228
+  },
+  "地点": {
+    "simplified": "地点",
+    "traditional": "地點",
+    "pinyin": "di4 dian3",
+    "definitions": [
+      "site, location"
+    ],
+    "frequency": 5.204713359801656e-05
+  },
+  "地球": {
+    "simplified": "地球",
+    "traditional": "地球",
+    "pinyin": "di4 qiu2",
+    "definitions": [
+      "the Earth"
+    ],
+    "frequency": 6.835285071033905e-05
+  },
+  "地址": {
+    "simplified": "地址",
+    "traditional": "地址",
+    "pinyin": "di4 zhi3",
+    "definitions": [
+      "address"
+    ],
+    "frequency": 5.8396526184716175e-05
+  },
+  "调查": {
+    "simplified": "调查",
+    "traditional": "調查",
+    "pinyin": "diao4 cha2",
+    "definitions": [
+      "to survey"
+    ],
+    "frequency": 0.00018836531340542188
+  },
+  "掉": {
+    "simplified": "掉",
+    "traditional": "掉",
+    "pinyin": "diao4",
+    "definitions": [
+      "to fall"
+    ],
+    "frequency": 0.00048115279691041536
+  },
+  "丢": {
+    "simplified": "丢",
+    "traditional": "丟",
+    "pinyin": "diu1",
+    "definitions": [
+      "to become lost, to throw, to cast"
+    ],
+    "frequency": 0.00012186064269684518
+  },
+  "动作": {
+    "simplified": "动作",
+    "traditional": "動作",
+    "pinyin": "dong4 zuo4",
+    "definitions": [
+      "movement"
+    ],
+    "frequency": 8.692407879256374e-05
+  },
+  "堵车": {
+    "simplified": "堵车",
+    "traditional": "堵車",
+    "pinyin": "du3 che1",
+    "definitions": [
+      "(of traffic) to be congested"
+    ],
+    "frequency": 3.6665506486575236e-06
+  },
+  "肚子": {
+    "simplified": "肚子",
+    "traditional": "肚子",
+    "pinyin": "du4 zi5",
+    "definitions": [
+      "belly, abdomen"
+    ],
+    "frequency": 3.1836390998099476e-05
+  },
+  "短信": {
+    "simplified": "短信",
+    "traditional": "短信",
+    "pinyin": "duan3 xin4",
+    "definitions": [
+      "text message"
+    ]
+  },
+  "对话": {
+    "simplified": "对话",
+    "traditional": "對話",
+    "pinyin": "dui4 hua4",
+    "definitions": [
+      "to have a dialog"
+    ],
+    "frequency": 2.1343498084868186e-05
+  },
+  "对面": {
+    "simplified": "对面",
+    "traditional": "對面",
+    "pinyin": "dui4 mian4",
+    "definitions": [
+      "opposite to, across from"
+    ],
+    "frequency": 1.9137605824700248e-05
+  },
+  "对于": {
+    "simplified": "对于",
+    "traditional": "對於",
+    "pinyin": "dui4 yu2",
+    "definitions": [
+      "regarding, with regards to"
+    ],
+    "frequency": 0.00013035630883397847
+  },
+  "儿童": {
+    "simplified": "儿童",
+    "traditional": "兒童",
+    "pinyin": "er2 tong2",
+    "definitions": [
+      "children"
+    ],
+    "frequency": 3.833483035913476e-05
+  },
+  "而": {
+    "simplified": "而",
+    "traditional": "而",
+    "pinyin": "er2",
+    "definitions": [
+      "but (not), yet (not) [indicates contrast]"
+    ],
+    "frequency": 0.0011739222040226174
+  },
+  "发生": {
+    "simplified": "发生",
+    "traditional": "發生",
+    "pinyin": "fa1 sheng1",
+    "definitions": [
+      "to happen"
+    ],
+    "frequency": 0.0006737510387069703
+  },
+  "发展": {
+    "simplified": "发展",
+    "traditional": "發展",
+    "pinyin": "fa1 zhan3",
+    "definitions": [
+      "to develop, to grow, to expand"
+    ],
+    "frequency": 4.918543553077166e-05
+  },
+  "法律": {
+    "simplified": "法律",
+    "traditional": "法律",
+    "pinyin": "fa3 lu:4",
+    "definitions": [
+      "law"
+    ],
+    "frequency": 9.073967621555692e-05
+  },
+  "翻译": {
+    "simplified": "翻译",
+    "traditional": "翻譯",
+    "pinyin": "fan1 yi4",
+    "definitions": [
+      "to translate"
+    ]
+  },
+  "烦恼": {
+    "simplified": "烦恼",
+    "traditional": "煩惱",
+    "pinyin": "fan2 nao3",
+    "definitions": [
+      "annoyances, pains, troubling matters"
+    ],
+    "frequency": 1.559029259551126e-05
+  },
+  "反对": {
+    "simplified": "反对",
+    "traditional": "反對",
+    "pinyin": "fan3 dui4",
+    "definitions": [
+      "to oppose"
+    ],
+    "frequency": 7.356948781208754e-05
+  },
+  "方法": {
+    "simplified": "方法",
+    "traditional": "方法",
+    "pinyin": "fang1 fa3",
+    "definitions": [
+      "method"
+    ],
+    "frequency": 0.00012442424721541872
+  },
+  "方面": {
+    "simplified": "方面",
+    "traditional": "方面",
+    "pinyin": "fang1 mian4",
+    "definitions": [
+      "aspect"
+    ],
+    "frequency": 8.987520492441003e-05
+  },
+  "方向": {
+    "simplified": "方向",
+    "traditional": "方向",
+    "pinyin": "fang1 xiang4",
+    "definitions": [
+      "direction"
+    ],
+    "frequency": 6.426896909354164e-05
+  },
+  "房东": {
+    "simplified": "房东",
+    "traditional": "房東",
+    "pinyin": "fang2 dong1",
+    "definitions": [
+      "landlord"
+    ],
+    "frequency": 7.1840545229793754e-06
+  },
+  "放弃": {
+    "simplified": "放弃",
+    "traditional": "放棄",
+    "pinyin": "fang4 qi4",
+    "definitions": [
+      "to give up, to abandon"
+    ],
+    "frequency": 0.00014377051852418893
+  },
+  "放暑假": {
+    "simplified": "放暑假",
+    "traditional": "放暑假",
+    "pinyin": "fang4 shu3 jia4",
+    "definitions": [
+      "to be on summer vacation"
+    ]
+  },
+  "放松": {
+    "simplified": "放松",
+    "traditional": "放鬆",
+    "pinyin": "fang4 song1",
+    "definitions": [
+      "to loosen; to relax"
+    ],
+    "frequency": 0.00012197988011631372
+  },
+  "份": {
+    "simplified": "份",
+    "traditional": "份",
+    "pinyin": "fen4",
+    "definitions": [
+      "a portion, a copy, a set [measure word]"
+    ],
+    "frequency": 0.0003026841893208821
+  },
+  "丰富": {
+    "simplified": "丰富",
+    "traditional": "豐富",
+    "pinyin": "feng1 fu4",
+    "definitions": [
+      "to enrich"
+    ],
+    "frequency": 1.421906227162308e-05
+  },
+  "否则": {
+    "simplified": "否则",
+    "traditional": "否則",
+    "pinyin": "fou3 ze2",
+    "definitions": [
+      "otherwise, or else"
+    ],
+    "frequency": 0.00011315631107564196
+  },
+  "符合": {
+    "simplified": "符合",
+    "traditional": "符合",
+    "pinyin": "fu2 he2",
+    "definitions": [
+      "to accord with; to meet (some criteria)"
+    ],
+    "frequency": 2.885545551138604e-05
+  },
+  "父亲": {
+    "simplified": "父亲",
+    "traditional": "父親",
+    "pinyin": "fu4 qin1",
+    "definitions": [
+      "father"
+    ],
+    "frequency": 0.0003696061909975987
+  },
+  "付款": {
+    "simplified": "付款",
+    "traditional": "付款",
+    "pinyin": "fu4 kuan3",
+    "definitions": [
+      "to make a payment; payment"
+    ],
+    "frequency": 4.53102193980442e-06
+  },
+  "负责": {
+    "simplified": "负责",
+    "traditional": "負責",
+    "pinyin": "fu4 ze2",
+    "definitions": [
+      "to be in charge of"
+    ],
+    "frequency": 0.00012102598076056541
+  },
+  "复印": {
+    "simplified": "复印",
+    "traditional": "複印",
+    "pinyin": "fu4 yin4",
+    "definitions": [
+      "to photocopy"
+    ],
+    "frequency": 4.05407226193027e-06
+  },
+  "复杂": {
+    "simplified": "复杂",
+    "traditional": "複雜",
+    "pinyin": "fu4 za2",
+    "definitions": [
+      "complicated, complex"
+    ],
+    "frequency": 5.401455101924742e-05
+  },
+  "富": {
+    "simplified": "富",
+    "traditional": "富",
+    "pinyin": "Fu4",
+    "definitions": [
+      "rich"
+    ],
+    "frequency": 1.5888386144182602e-05
+  },
+  "改变": {
+    "simplified": "改变",
+    "traditional": "改變",
+    "pinyin": "gai3 bian4",
+    "definitions": [
+      "to change; a change"
+    ],
+    "frequency": 0.0002216027440822767
+  },
+  "干杯": {
+    "simplified": "干杯",
+    "traditional": "乾杯",
+    "pinyin": "gan1 bei1",
+    "definitions": [
+      "cheers!"
+    ],
+    "frequency": 4.3581276815750404e-05
+  },
+  "赶": {
+    "simplified": "赶",
+    "traditional": "趕",
+    "pinyin": "gan3",
+    "definitions": [
+      "to hurry, to rush, to catch up with"
+    ],
+    "frequency": 8.620865427575251e-05
+  },
+  "敢": {
+    "simplified": "敢",
+    "traditional": "敢",
+    "pinyin": "gan3",
+    "definitions": [
+      "to dare (to)"
+    ],
+    "frequency": 0.00025826825056885194
+  },
+  "感动": {
+    "simplified": "感动",
+    "traditional": "感動",
+    "pinyin": "gan3 dong4",
+    "definitions": [
+      "to move emotionally, to touch emotionally"
+    ],
+    "frequency": 1.7229807113203648e-05
+  },
+  "感觉": {
+    "simplified": "感觉",
+    "traditional": "感覺",
+    "pinyin": "gan3 jue2",
+    "definitions": [
+      "sense perception; sensation, feeling"
+    ],
+    "frequency": 0.0006353863989929685
+  },
+  "感情": {
+    "simplified": "感情",
+    "traditional": "感情",
+    "pinyin": "gan3 qing2",
+    "definitions": [
+      "deep affection for sb or sth; relationship (i.e. love affair)"
+    ],
+    "frequency": 7.29136820050106e-05
+  },
+  "感谢": {
+    "simplified": "感谢",
+    "traditional": "感謝",
+    "pinyin": "gan3 xie4",
+    "definitions": [
+      "to be grateful"
+    ],
+    "frequency": 0.00026411088412281025
+  },
+  "干": {
+    "simplified": "干",
+    "traditional": "乹",
+    "pinyin": "gan1",
+    "definitions": [
+      "to work; to do"
+    ],
+    "frequency": 0.0012415894395710124
+  },
+  "刚": {
+    "simplified": "刚",
+    "traditional": "剛",
+    "pinyin": "gang1",
+    "definitions": [
+      "just (did something)"
+    ],
+    "frequency": 0.00032456425579335867
+  },
+  "高速公路": {
+    "simplified": "高速公路",
+    "traditional": "高速公路",
+    "pinyin": "gao1 su4 gong1 lu4",
+    "definitions": [
+      "expressway"
+    ],
+    "frequency": 6.885960974308033e-06
+  },
+  "胳膊": {
+    "simplified": "胳膊",
+    "traditional": "胳膊",
+    "pinyin": "ge1 bo5",
+    "definitions": [
+      "arm"
+    ],
+    "frequency": 2.521871421759565e-05
+  },
+  "各": {
+    "simplified": "各",
+    "traditional": "各",
+    "pinyin": "ge4",
+    "definitions": [
+      "each, every"
+    ],
+    "frequency": 4.1464812620183866e-05
+  },
+  "工资": {
+    "simplified": "工资",
+    "traditional": "工資",
+    "pinyin": "gong1 zi1",
+    "definitions": [
+      "wages, pay"
+    ],
+    "frequency": 1.7915422275147738e-05
+  },
+  "公里": {
+    "simplified": "公里",
+    "traditional": "公里",
+    "pinyin": "gong1 li3",
+    "definitions": [
+      "kilometer"
+    ],
+    "frequency": 1.627590775745535e-05
+  },
+  "功夫": {
+    "simplified": "功夫",
+    "traditional": "功夫",
+    "pinyin": "gong1 fu5",
+    "definitions": [
+      "kung fu; effort"
+    ],
+    "frequency": 2.0598264213189828e-05
+  },
+  "共同": {
+    "simplified": "共同",
+    "traditional": "共同",
+    "pinyin": "gong4 tong2",
+    "definitions": [
+      "joint, in common"
+    ],
+    "frequency": 2.828907776891049e-05
+  },
+  "购物": {
+    "simplified": "购物",
+    "traditional": "購物",
+    "pinyin": "gou4 wu4",
+    "definitions": [
+      "shopping"
+    ],
+    "frequency": 2.632166034767962e-05
+  },
+  "够": {
+    "simplified": "够",
+    "traditional": "夠",
+    "pinyin": "gou4",
+    "definitions": [
+      "to be enough"
+    ],
+    "frequency": 0.00036975523777193434
+  },
+  "估计": {
+    "simplified": "估计",
+    "traditional": "估計",
+    "pinyin": "gu1 ji4",
+    "definitions": [
+      "to estimate"
+    ],
+    "frequency": 5.210675230775082e-05
+  },
+  "鼓励": {
+    "simplified": "鼓励",
+    "traditional": "鼓勵",
+    "pinyin": "gu3 li4",
+    "definitions": [
+      "to encourage; encouragement"
+    ],
+    "frequency": 1.8809702921161767e-05
+  },
+  "故意": {
+    "simplified": "故意",
+    "traditional": "故意",
+    "pinyin": "gu4 yi4",
+    "definitions": [
+      "on purpose, intentional"
+    ],
+    "frequency": 5.3746266825443214e-05
+  },
+  "顾客": {
+    "simplified": "顾客",
+    "traditional": "顧客",
+    "pinyin": "gu4 ke4",
+    "definitions": [
+      "customer"
+    ],
+    "frequency": 2.9421833253861592e-05
+  },
+  "挂": {
+    "simplified": "挂",
+    "traditional": "掛",
+    "pinyin": "gua4",
+    "definitions": [
+      "to hang or suspend (from a hook etc); (of a telephone call) to hang up"
+    ],
+    "frequency": 0.00010322979590488622
+  },
+  "关键": {
+    "simplified": "关键",
+    "traditional": "關鍵",
+    "pinyin": "guan1 jian4",
+    "definitions": [
+      "key (issue)"
+    ],
+    "frequency": 6.7011429741318e-05
+  },
+  "观众": {
+    "simplified": "观众",
+    "traditional": "觀眾",
+    "pinyin": "guan1 zhong4",
+    "definitions": [
+      "audience (of a stage performance or visual media)"
+    ],
+    "frequency": 7.461281523243726e-05
+  },
+  "管理": {
+    "simplified": "管理",
+    "traditional": "管理",
+    "pinyin": "guan3 li3",
+    "definitions": [
+      "to manage; management"
+    ],
+    "frequency": 3.2343150030840756e-05
+  },
+  "光": {
+    "simplified": "光",
+    "traditional": "光",
+    "pinyin": "guang1",
+    "definitions": [
+      "only, merely"
+    ],
+    "frequency": 0.00011264955204290068
+  },
+  "广播": {
+    "simplified": "广播",
+    "traditional": "廣播",
+    "pinyin": "guang3 bo1",
+    "definitions": [
+      "to broadcast"
+    ],
+    "frequency": 2.211854131141368e-05
+  },
+  "广告": {
+    "simplified": "广告",
+    "traditional": "廣告",
+    "pinyin": "guang3 gao4",
+    "definitions": [
+      "advertisement"
+    ],
+    "frequency": 7.026064942183564e-05
+  },
+  "逛": {
+    "simplified": "逛",
+    "traditional": "逛",
+    "pinyin": "guang4",
+    "definitions": [
+      "to stroll around, to browse shops"
+    ],
+    "frequency": 1.2549738399063557e-05
+  },
+  "规定": {
+    "simplified": "规定",
+    "traditional": "規定",
+    "pinyin": "gui1 ding4",
+    "definitions": [
+      "to make a regulation"
+    ],
+    "frequency": 3.913968294054739e-05
+  },
+  "国籍": {
+    "simplified": "国籍",
+    "traditional": "國籍",
+    "pinyin": "guo2 ji2",
+    "definitions": [
+      "nationality"
+    ],
+    "frequency": 1.5500864530909856e-06
+  },
+  "国际": {
+    "simplified": "国际",
+    "traditional": "國際",
+    "pinyin": "guo2 ji4",
+    "definitions": [
+      "international"
+    ],
+    "frequency": 3.1508488094560995e-05
+  },
+  "果汁": {
+    "simplified": "果汁",
+    "traditional": "果汁",
+    "pinyin": "guo3 zhi1",
+    "definitions": [
+      "fruit juice"
+    ],
+    "frequency": 1.38017313034832e-05
+  },
+  "过程": {
+    "simplified": "过程",
+    "traditional": "過程",
+    "pinyin": "guo4 cheng2",
+    "definitions": [
+      "course; process"
+    ],
+    "frequency": 4.987105069271575e-05
+  },
+  "海洋": {
+    "simplified": "海洋",
+    "traditional": "海洋",
+    "pinyin": "hai3 yang2",
+    "definitions": [
+      "ocean"
+    ],
+    "frequency": 1.3473828399944722e-05
+  },
+  "害羞": {
+    "simplified": "害羞",
+    "traditional": "害羞",
+    "pinyin": "hai4 xiu1",
+    "definitions": [
+      "shy"
+    ],
+    "frequency": 1.6126860983119677e-05
+  },
+  "寒假": {
+    "simplified": "寒假",
+    "traditional": "寒假",
+    "pinyin": "han2 jia4",
+    "definitions": [
+      "winter vacation"
+    ],
+    "frequency": 3.2790290353847776e-07
+  },
+  "汗": {
+    "simplified": "汗",
+    "traditional": "汗",
+    "pinyin": "han2",
+    "definitions": [
+      "sweat, perspiration"
+    ],
+    "frequency": 1.633552646718962e-05
+  },
+  "航班": {
+    "simplified": "航班",
+    "traditional": "航班",
+    "pinyin": "hang2 ban1",
+    "definitions": [
+      "flight"
+    ],
+    "frequency": 2.6262041637945354e-05
+  },
+  "好处": {
+    "simplified": "好处",
+    "traditional": "好處",
+    "pinyin": "hao3 chu3",
+    "definitions": [
+      "benefit"
+    ],
+    "frequency": 5.2941414244030584e-05
+  },
+  "好像": {
+    "simplified": "好像",
+    "traditional": "好像",
+    "pinyin": "hao3 xiang4",
+    "definitions": [
+      "to seem like; to seem to be"
+    ],
+    "frequency": 0.0003342821054800445
+  },
+  "号码": {
+    "simplified": "号码",
+    "traditional": "號碼",
+    "pinyin": "hao4 ma3",
+    "definitions": [
+      "number"
+    ],
+    "frequency": 9.348213686333329e-05
+  },
+  "合格": {
+    "simplified": "合格",
+    "traditional": "合格",
+    "pinyin": "he2 ge2",
+    "definitions": [
+      "to meet standard"
+    ],
+    "frequency": 6.587867425636689e-06
+  },
+  "合适": {
+    "simplified": "合适",
+    "traditional": "合適",
+    "pinyin": "he2 shi4",
+    "definitions": [
+      "suitable"
+    ],
+    "frequency": 7.10953113581154e-05
+  },
+  "盒子": {
+    "simplified": "盒子",
+    "traditional": "盒子",
+    "pinyin": "he2 zi5",
+    "definitions": [
+      "box, case"
+    ],
+    "frequency": 4.3611086170617537e-05
+  },
+  "后悔": {
+    "simplified": "后悔",
+    "traditional": "後悔",
+    "pinyin": "hou4 hui3",
+    "definitions": [
+      "to regret"
+    ],
+    "frequency": 4.048110390956843e-05
+  },
+  "厚": {
+    "simplified": "厚",
+    "traditional": "厚",
+    "pinyin": "hou4",
+    "definitions": [
+      "thick, deep"
+    ],
+    "frequency": 1.2400691624727885e-05
+  },
+  "互联网": {
+    "simplified": "互联网",
+    "traditional": "互聯網",
+    "pinyin": "Hu4 lian2 wang3",
+    "definitions": [
+      "the Internet"
+    ],
+    "frequency": 6.259964522098211e-06
+  },
+  "互相": {
+    "simplified": "互相",
+    "traditional": "互相",
+    "pinyin": "hu4 xiang1",
+    "definitions": [
+      "mutually"
+    ],
+    "frequency": 5.0318191015722765e-05
+  },
+  "护士": {
+    "simplified": "护士",
+    "traditional": "護士",
+    "pinyin": "hu4 shi5",
+    "definitions": [
+      "nurse"
+    ],
+    "frequency": 4.0689769393638376e-05
+  },
+  "怀疑": {
+    "simplified": "怀疑",
+    "traditional": "懷疑",
+    "pinyin": "huai2 yi2",
+    "definitions": [
+      "to suspect; to doubt"
+    ],
+    "frequency": 8.608941685628397e-05
+  },
+  "回忆": {
+    "simplified": "回忆",
+    "traditional": "回憶",
+    "pinyin": "hui2 yi4",
+    "definitions": [
+      "to recall"
+    ],
+    "frequency": 3.562217906622554e-05
+  },
+  "活动": {
+    "simplified": "活动",
+    "traditional": "活動",
+    "pinyin": "huo2 dong4",
+    "definitions": [
+      "activity, event"
+    ],
+    "frequency": 8.32575281439062e-05
+  },
+  "活泼": {
+    "simplified": "活泼",
+    "traditional": "活潑",
+    "pinyin": "huo2 po5",
+    "definitions": [
+      "lively"
+    ],
+    "frequency": 4.948352907944301e-06
+  },
+  "火": {
+    "simplified": "火",
+    "traditional": "火",
+    "pinyin": "Huo3",
+    "definitions": [
+      "popular, hot"
+    ],
+    "frequency": 0.00010540587881018703
+  },
+  "获得": {
+    "simplified": "获得",
+    "traditional": "獲得",
+    "pinyin": "huo4 de2",
+    "definitions": [
+      "to obtain"
+    ],
+    "frequency": 8.114106394833967e-05
+  },
+  "积极": {
+    "simplified": "积极",
+    "traditional": "積極",
+    "pinyin": "ji1 ji2",
+    "definitions": [
+      "active; positive"
+    ],
+    "frequency": 1.600762356365114e-05
+  },
+  "积累": {
+    "simplified": "积累",
+    "traditional": "積累",
+    "pinyin": "ji1 lei3",
+    "definitions": [
+      "to accumulate"
+    ],
+    "frequency": 2.116464195566538e-06
+  },
+  "基础": {
+    "simplified": "基础",
+    "traditional": "基礎",
+    "pinyin": "ji1 chu3",
+    "definitions": [
+      "base; foundation"
+    ],
+    "frequency": 1.6126860983119677e-05
+  },
+  "激动": {
+    "simplified": "激动",
+    "traditional": "激動",
+    "pinyin": "ji1 dong4",
+    "definitions": [
+      "excited"
+    ],
+    "frequency": 6.248040780151357e-05
+  },
+  "及时": {
+    "simplified": "及时",
+    "traditional": "及時",
+    "pinyin": "ji2 shi2",
+    "definitions": [
+      "in time; promptly"
+    ],
+    "frequency": 1.8601037437091828e-05
+  },
+  "即使": {
+    "simplified": "即使",
+    "traditional": "即使",
+    "pinyin": "ji2 shi3",
+    "definitions": [
+      "even if; even though"
+    ],
+    "frequency": 0.00010480969171284434
+  },
+  "计划": {
+    "simplified": "计划",
+    "traditional": "計劃",
+    "pinyin": "ji4 hua4",
+    "definitions": [
+      "to plan; to map out"
+    ],
+    "frequency": 0.00027332197477675474
+  },
+  "记者": {
+    "simplified": "记者",
+    "traditional": "記者",
+    "pinyin": "ji4 zhe3",
+    "definitions": [
+      "journalist"
+    ],
+    "frequency": 5.0646093919261246e-05
+  },
+  "技术": {
+    "simplified": "技术",
+    "traditional": "技術",
+    "pinyin": "ji4 shu4",
+    "definitions": [
+      "technology; skill, technique"
+    ],
+    "frequency": 6.367278199619895e-05
+  },
+  "既然": {
+    "simplified": "既然",
+    "traditional": "既然",
+    "pinyin": "ji4 ran2",
+    "definitions": [
+      "since..., this being the case..."
+    ],
+    "frequency": 8.295943459523487e-05
+  },
+  "继续": {
+    "simplified": "继续",
+    "traditional": "繼續",
+    "pinyin": "ji4 xu4",
+    "definitions": [
+      "to continue"
+    ],
+    "frequency": 0.0003941094806983831
+  },
+  "寄": {
+    "simplified": "寄",
+    "traditional": "寄",
+    "pinyin": "ji4",
+    "definitions": [
+      "to mail, to send"
+    ],
+    "frequency": 5.6220443279415365e-05
+  },
+  "加班": {
+    "simplified": "加班",
+    "traditional": "加班",
+    "pinyin": "jia1 ban1",
+    "definitions": [
+      "work overtime, work an extra shift"
+    ],
+    "frequency": 7.303291942447913e-06
+  },
+  "加油站": {
+    "simplified": "加油站",
+    "traditional": "加油站",
+    "pinyin": "jia1 you2 zhan4",
+    "definitions": [
+      "gas station"
+    ],
+    "frequency": 8.555284846867556e-06
+  },
+  "家具": {
+    "simplified": "家具",
+    "traditional": "家具",
+    "pinyin": "jia1 ju4",
+    "definitions": [
+      "furniture"
+    ],
+    "frequency": 1.2788213238000632e-05
+  },
+  "假": {
+    "simplified": "假",
+    "traditional": "假",
+    "pinyin": "gei1",
+    "definitions": [
+      "fake"
+    ],
+    "frequency": 9.866896461021466e-05
+  },
+  "价格": {
+    "simplified": "价格",
+    "traditional": "價格",
+    "pinyin": "jia4 ge2",
+    "definitions": [
+      "price"
+    ],
+    "frequency": 1.9048177760098844e-05
+  },
+  "坚持": {
+    "simplified": "坚持",
+    "traditional": "堅持",
+    "pinyin": "jian1 chi2",
+    "definitions": [
+      "to persevere, to persist in"
+    ],
+    "frequency": 0.00010683672784380948
+  },
+  "减肥": {
+    "simplified": "减肥",
+    "traditional": "減肥",
+    "pinyin": "jian3 fei2",
+    "definitions": [
+      "to lose weight"
+    ],
+    "frequency": 1.1387173559245317e-05
+  },
+  "减少": {
+    "simplified": "减少",
+    "traditional": "減少",
+    "pinyin": "jian3 shao3",
+    "definitions": [
+      "to decrease"
+    ],
+    "frequency": 1.4755630659231498e-05
+  },
+  "建议": {
+    "simplified": "建议",
+    "traditional": "建議",
+    "pinyin": "jian4 yi4",
+    "definitions": [
+      "to suggest, to recommend"
+    ],
+    "frequency": 0.00011384192623758604
+  },
+  "将来": {
+    "simplified": "将来",
+    "traditional": "將來",
+    "pinyin": "jiang1 lai2",
+    "definitions": [
+      "in the future"
+    ],
+    "frequency": 2.7096703574225115e-05
+  },
+  "奖金": {
+    "simplified": "奖金",
+    "traditional": "獎金",
+    "pinyin": "jiang3 jin1",
+    "definitions": [
+      "bonus"
+    ],
+    "frequency": 1.6931713564532306e-05
+  },
+  "降低": {
+    "simplified": "降低",
+    "traditional": "降低",
+    "pinyin": "jiang4 di1",
+    "definitions": [
+      "to reduce"
+    ],
+    "frequency": 1.0820795816769766e-05
+  },
+  "降落": {
+    "simplified": "降落",
+    "traditional": "降落",
+    "pinyin": "jiang4 luo4",
+    "definitions": [
+      "to land, to descend"
+    ],
+    "frequency": 2.068769227779123e-05
+  },
+  "交": {
+    "simplified": "交",
+    "traditional": "交",
+    "pinyin": "jiao1",
+    "definitions": [
+      "to make (friends)"
+    ],
+    "frequency": 0.0001077310084898235
+  },
+  "交流": {
+    "simplified": "交流",
+    "traditional": "交流",
+    "pinyin": "jiao1 liu2",
+    "definitions": [
+      "to communicate"
+    ],
+    "frequency": 2.9213167769791653e-05
+  },
+  "交通": {
+    "simplified": "交通",
+    "traditional": "交通",
+    "pinyin": "jiao1 tong1",
+    "definitions": [
+      "traffic"
+    ],
+    "frequency": 2.858717131758183e-05
+  },
+  "郊区": {
+    "simplified": "郊区",
+    "traditional": "郊區",
+    "pinyin": "Jiao1 Qu1",
+    "definitions": [
+      "suburbs, area on the outskirts of the city"
+    ],
+    "frequency": 5.693586779622659e-06
+  },
+  "骄傲": {
+    "simplified": "骄傲",
+    "traditional": "驕傲",
+    "pinyin": "jiao1 ao4",
+    "definitions": [
+      "proud"
+    ],
+    "frequency": 6.24207890917793e-05
+  },
+  "饺子": {
+    "simplified": "饺子",
+    "traditional": "餃子",
+    "pinyin": "jiao3 zi5",
+    "definitions": [
+      "dumpling"
+    ],
+    "frequency": 1.6097051628252544e-06
+  },
+  "教授": {
+    "simplified": "教授",
+    "traditional": "教授",
+    "pinyin": "jiao4 shou4",
+    "definitions": [
+      "professor"
+    ],
+    "frequency": 5.657815553782098e-05
+  },
+  "教育": {
+    "simplified": "教育",
+    "traditional": "教育",
+    "pinyin": "jiao4 yu4",
+    "definitions": [
+      "to educate"
+    ],
+    "frequency": 3.493656390428144e-05
+  },
+  "接受": {
+    "simplified": "接受",
+    "traditional": "接受",
+    "pinyin": "jie1 shou4",
+    "definitions": [
+      "to accept"
+    ],
+    "frequency": 0.00022190083763094803
+  },
+  "接着": {
+    "simplified": "接着",
+    "traditional": "接著",
+    "pinyin": "jie1 zhe5",
+    "definitions": [
+      "to continue doing; next, ..."
+    ],
+    "frequency": 6.406030360947169e-05
+  },
+  "节": {
+    "simplified": "节",
+    "traditional": "節",
+    "pinyin": "jie1",
+    "definitions": [
+      "festival, holiday"
+    ],
+    "frequency": 6.018508747674423e-05
+  },
+  "节约": {
+    "simplified": "节约",
+    "traditional": "節約",
+    "pinyin": "jie2 yue1",
+    "definitions": [
+      "to economize; to conserve (resources)"
+    ],
+    "frequency": 2.6530325831749563e-06
+  },
+  "结果": {
+    "simplified": "结果",
+    "traditional": "結果",
+    "pinyin": "jie1 guo3",
+    "definitions": [
+      "result; in the end, as a result"
+    ],
+    "frequency": 0.0002111992792336468
+  },
+  "解释": {
+    "simplified": "解释",
+    "traditional": "解釋",
+    "pinyin": "jie3 shi4",
+    "definitions": [
+      "to explain"
+    ],
+    "frequency": 0.00018147935243111385
+  },
+  "尽管": {
+    "simplified": "尽管",
+    "traditional": "儘管",
+    "pinyin": "jin3 guan3",
+    "definitions": [
+      "although"
+    ],
+    "frequency": 7.920345588197593e-05
+  },
+  "紧张": {
+    "simplified": "紧张",
+    "traditional": "緊張",
+    "pinyin": "jin3 zhang1",
+    "definitions": [
+      "nervous, tense; strained"
+    ],
+    "frequency": 0.00014472441787993722
+  },
+  "进行": {
+    "simplified": "进行",
+    "traditional": "進行",
+    "pinyin": "jin4 xing2",
+    "definitions": [
+      "to advance, to conduct, to carry on (a plan of action)"
+    ],
+    "frequency": 0.0001933136663133662
+  },
+  "禁止": {
+    "simplified": "禁止",
+    "traditional": "禁止",
+    "pinyin": "jin4 zhi3",
+    "definitions": [
+      "to prohibit; to forbid; to ban"
+    ],
+    "frequency": 2.670918196095237e-05
+  },
+  "京剧": {
+    "simplified": "京剧",
+    "traditional": "京劇",
+    "pinyin": "Jing1 ju4",
+    "definitions": [
+      "Beijing opera"
+    ],
+    "frequency": 2.980935486713434e-08
+  },
+  "经济": {
+    "simplified": "经济",
+    "traditional": "經濟",
+    "pinyin": "jing1 ji4",
+    "definitions": [
+      "economy"
+    ],
+    "frequency": 2.6560135186616695e-05
+  },
+  "经历": {
+    "simplified": "经历",
+    "traditional": "經歷",
+    "pinyin": "jing1 li4",
+    "definitions": [
+      "to go through (an experience)"
+    ],
+    "frequency": 0.00011628629333669106
+  },
+  "经验": {
+    "simplified": "经验",
+    "traditional": "經驗",
+    "pinyin": "jing1 yan4",
+    "definitions": [
+      "(accumulated) experience"
+    ],
+    "frequency": 4.3611086170617537e-05
+  },
+  "精彩": {
+    "simplified": "精彩",
+    "traditional": "精彩",
+    "pinyin": "jing1 cai3",
+    "definitions": [
+      "spectacular, wonderful"
+    ],
+    "frequency": 7.312234748908054e-05
+  },
+  "景色": {
+    "simplified": "景色",
+    "traditional": "景色",
+    "pinyin": "jing3 se4",
+    "definitions": [
+      "scenery, landscape"
+    ],
+    "frequency": 6.051299038028271e-06
+  },
+  "警察": {
+    "simplified": "警察",
+    "traditional": "警察",
+    "pinyin": "jing3 cha2",
+    "definitions": [
+      "police, policeman, policewoman"
+    ],
+    "frequency": 0.0003331493499950934
+  },
+  "竞争": {
+    "simplified": "竞争",
+    "traditional": "競爭",
+    "pinyin": "jing4 zheng1",
+    "definitions": [
+      "to compete"
+    ],
+    "frequency": 3.082287293261691e-05
+  },
+  "竟然": {
+    "simplified": "竟然",
+    "traditional": "竟然",
+    "pinyin": "jing4 ran2",
+    "definitions": [
+      "unexpectedly"
+    ],
+    "frequency": 5.267313005022638e-05
+  },
+  "镜子": {
+    "simplified": "镜子",
+    "traditional": "鏡子",
+    "pinyin": "jing4 zi5",
+    "definitions": [
+      "mirror"
+    ],
+    "frequency": 2.3012821957427712e-05
+  },
+  "究竟": {
+    "simplified": "究竟",
+    "traditional": "究竟",
+    "pinyin": "jiu1 jing4",
+    "definitions": [
+      "after all, when all is said and done, finally"
+    ],
+    "frequency": 6.671333619264665e-05
+  },
+  "举": {
+    "simplified": "举",
+    "traditional": "擧",
+    "pinyin": "ju3",
+    "definitions": [
+      "to raise, to lift"
+    ],
+    "frequency": 5.180865875907948e-05
+  },
+  "举办": {
+    "simplified": "举办",
+    "traditional": "舉辦",
+    "pinyin": "ju3 ban4",
+    "definitions": [
+      "to conduct; to hold"
+    ],
+    "frequency": 1.553067388577699e-05
+  },
+  "举行": {
+    "simplified": "举行",
+    "traditional": "舉行",
+    "pinyin": "ju3 xing2",
+    "definitions": [
+      "to hold (a party, meeting, activity, etc.)"
+    ],
+    "frequency": 3.192581906270088e-05
+  },
+  "拒绝": {
+    "simplified": "拒绝",
+    "traditional": "拒絕",
+    "pinyin": "ju4 jue2",
+    "definitions": [
+      "to refuse, to reject"
+    ],
+    "frequency": 8.58509420173469e-05
+  },
+  "距离": {
+    "simplified": "距离",
+    "traditional": "距離",
+    "pinyin": "ju4 li2",
+    "definitions": [
+      "distance"
+    ],
+    "frequency": 4.134557520071533e-05
+  },
+  "聚会": {
+    "simplified": "聚会",
+    "traditional": "聚會",
+    "pinyin": "ju4 hui4",
+    "definitions": [
+      "to have a party"
+    ],
+    "frequency": 6.575943683689835e-05
+  },
+  "开玩笑": {
+    "simplified": "开玩笑",
+    "traditional": "開玩笑",
+    "pinyin": "kai1 wan2 xiao4",
+    "definitions": [
+      "to play a joke; to make fun of; to joke"
+    ],
+    "frequency": 7.172130781032522e-05
+  },
+  "开心": {
+    "simplified": "开心",
+    "traditional": "開心",
+    "pinyin": "kai1 xin1",
+    "definitions": [
+      "happy"
+    ],
+    "frequency": 0.00018487761888596717
+  },
+  "看法": {
+    "simplified": "看法",
+    "traditional": "看法",
+    "pinyin": "kan4 fa3",
+    "definitions": [
+      "point of view"
+    ],
+    "frequency": 4.355146746088327e-05
+  },
+  "考虑": {
+    "simplified": "考虑",
+    "traditional": "考慮",
+    "pinyin": "kao3 lu:4",
+    "definitions": [
+      "to consider"
+    ],
+    "frequency": 0.00018764988888861066
+  },
+  "烤鸭": {
+    "simplified": "烤鸭",
+    "traditional": "烤鴨",
+    "pinyin": "kao3 ya1",
+    "definitions": [
+      "roast duck"
+    ],
+    "frequency": 3.875216132727464e-07
+  },
+  "科学": {
+    "simplified": "科学",
+    "traditional": "科學",
+    "pinyin": "ke1 xue2",
+    "definitions": [
+      "science; scientific"
+    ],
+    "frequency": 4.170328745912094e-05
+  },
+  "棵": {
+    "simplified": "棵",
+    "traditional": "棵",
+    "pinyin": "ke1",
+    "definitions": [
+      "[measure word for trees or other large plants]"
+    ],
+    "frequency": 1.8362562598154754e-05
+  },
+  "咳嗽": {
+    "simplified": "咳嗽",
+    "traditional": "咳嗽",
+    "pinyin": "ke2 sou5",
+    "definitions": [
+      "to cough"
+    ],
+    "frequency": 5.663777424755525e-06
+  },
+  "可怜": {
+    "simplified": "可怜",
+    "traditional": "可憐",
+    "pinyin": "ke3 lian2",
+    "definitions": [
+      "pitiful, poor"
+    ],
+    "frequency": 0.00010218646848453651
+  },
+  "可是": {
+    "simplified": "可是",
+    "traditional": "可是",
+    "pinyin": "ke3 shi4",
+    "definitions": [
+      "but"
+    ],
+    "frequency": 0.00034993201678529
+  },
+  "可惜": {
+    "simplified": "可惜",
+    "traditional": "可惜",
+    "pinyin": "ke3 xi1",
+    "definitions": [
+      "such a shame, unfortunately"
+    ],
+    "frequency": 4.1941762298058014e-05
+  },
+  "客厅": {
+    "simplified": "客厅",
+    "traditional": "客廳",
+    "pinyin": "ke4 ting1",
+    "definitions": [
+      "living room (in one's home)"
+    ],
+    "frequency": 1.132755484951105e-05
+  },
+  "肯定": {
+    "simplified": "肯定",
+    "traditional": "肯定",
+    "pinyin": "ken3 ding4",
+    "definitions": [
+      "certainly"
+    ],
+    "frequency": 0.0005523971550428665
+  },
+  "空": {
+    "simplified": "空",
+    "traditional": "空",
+    "pinyin": "kong1",
+    "definitions": [
+      "empty"
+    ],
+    "frequency": 6.683257361211519e-05
+  },
+  "空气": {
+    "simplified": "空气",
+    "traditional": "空氣",
+    "pinyin": "kong1 qi4",
+    "definitions": [
+      "air"
+    ],
+    "frequency": 4.0689769393638376e-05
+  },
+  "恐怕": {
+    "simplified": "恐怕",
+    "traditional": "恐怕",
+    "pinyin": "kong3 pa4",
+    "definitions": [
+      "I'm afraid that..."
+    ],
+    "frequency": 6.656428941831098e-05
+  },
+  "苦": {
+    "simplified": "苦",
+    "traditional": "苦",
+    "pinyin": "ku3",
+    "definitions": [
+      "bitter, hardship"
+    ],
+    "frequency": 2.2774347118490634e-05
+  },
+  "矿泉水": {
+    "simplified": "矿泉水",
+    "traditional": "礦泉水",
+    "pinyin": "kuang4 quan2 shui3",
+    "definitions": [
+      "mineral spring water"
+    ],
+    "frequency": 2.0568454858322692e-06
+  },
+  "困": {
+    "simplified": "困",
+    "traditional": "困",
+    "pinyin": "kun4",
+    "definitions": [
+      "sleepy"
+    ],
+    "frequency": 4.4892888429904314e-05
+  },
+  "困难": {
+    "simplified": "困难",
+    "traditional": "困難",
+    "pinyin": "kun4 nan5",
+    "definitions": [
+      "difficulty"
+    ],
+    "frequency": 6.355354457673041e-05
+  },
+  "垃圾桶": {
+    "simplified": "垃圾桶",
+    "traditional": "垃圾桶",
+    "pinyin": "la1 ji1 tong3",
+    "definitions": [
+      "trash can"
+    ],
+    "frequency": 7.452338716783585e-06
+  },
+  "拉": {
+    "simplified": "拉",
+    "traditional": "拉",
+    "pinyin": "la1",
+    "definitions": [
+      "to pull"
+    ],
+    "frequency": 0.00024500308765297715
+  },
+  "辣": {
+    "simplified": "辣",
+    "traditional": "辢",
+    "pinyin": "la4",
+    "definitions": [
+      "spicy"
+    ],
+    "frequency": 5.03480003705899e-05
+  },
+  "来不及": {
+    "simplified": "来不及",
+    "traditional": "來不及",
+    "pinyin": "lai2 bu5 ji2",
+    "definitions": [
+      "to not have enough time to"
+    ],
+    "frequency": 1.2102598076056541e-05
+  },
+  "来得及": {
+    "simplified": "来得及",
+    "traditional": "來得及",
+    "pinyin": "lai2 de5 ji2",
+    "definitions": [
+      "can make it in time"
+    ],
+    "frequency": 1.1387173559245317e-05
+  },
+  "来自": {
+    "simplified": "来自",
+    "traditional": "來自",
+    "pinyin": "lai2 zi4",
+    "definitions": [
+      "to come from"
+    ],
+    "frequency": 0.00013300934141715343
+  },
+  "懒": {
+    "simplified": "懒",
+    "traditional": "嬾",
+    "pinyin": "lan3",
+    "definitions": [
+      "lazy"
+    ],
+    "frequency": 7.750432265454929e-06
+  },
+  "浪费": {
+    "simplified": "浪费",
+    "traditional": "浪費",
+    "pinyin": "lang4 fei4",
+    "definitions": [
+      "to waste"
+    ],
+    "frequency": 7.88159342687032e-05
+  },
+  "浪漫": {
+    "simplified": "浪漫",
+    "traditional": "浪漫",
+    "pinyin": "lang4 man4",
+    "definitions": [
+      "romantic"
+    ],
+    "frequency": 3.776845261665921e-05
+  },
+  "老虎": {
+    "simplified": "老虎",
+    "traditional": "老虎",
+    "pinyin": "lao3 hu3",
+    "definitions": [
+      "tiger"
+    ],
+    "frequency": 1.0969842591105437e-05
+  },
+  "冷静": {
+    "simplified": "冷静",
+    "traditional": "冷靜",
+    "pinyin": "leng3 jing4",
+    "definitions": [
+      "calm; cool-headed"
+    ],
+    "frequency": 0.000124483865925153
+  },
+  "礼拜天": {
+    "simplified": "礼拜天",
+    "traditional": "禮拜天",
+    "pinyin": "Li3 bai4 tian1",
+    "definitions": [
+      "Sunday"
+    ],
+    "frequency": 1.907798711496598e-06
+  },
+  "礼貌": {
+    "simplified": "礼貌",
+    "traditional": "禮貌",
+    "pinyin": "li3 mao4",
+    "definitions": [
+      "politeness, manners"
+    ],
+    "frequency": 2.617261357334395e-05
+  },
+  "理发": {
+    "simplified": "理发",
+    "traditional": "理髮",
+    "pinyin": "li3 fa4",
+    "definitions": [
+      "to get one's hair cut"
+    ],
+    "frequency": 4.203119036265942e-06
+  },
+  "理解": {
+    "simplified": "理解",
+    "traditional": "理解",
+    "pinyin": "li3 jie3",
+    "definitions": [
+      "to comprehend"
+    ],
+    "frequency": 0.00015277294369406348
+  },
+  "理想": {
+    "simplified": "理想",
+    "traditional": "理想",
+    "pinyin": "li3 xiang3",
+    "definitions": [
+      "ideal"
+    ],
+    "frequency": 1.7975040984882006e-05
+  },
+  "力气": {
+    "simplified": "力气",
+    "traditional": "力氣",
+    "pinyin": "li4 qi5",
+    "definitions": [
+      "strength"
+    ],
+    "frequency": 1.585857678931547e-05
+  },
+  "厉害": {
+    "simplified": "厉害",
+    "traditional": "厲害",
+    "pinyin": "li4 hai5",
+    "definitions": [
+      "impressive, awesome; tremendous"
+    ],
+    "frequency": 7.547728652358415e-05
+  },
+  "例如": {
+    "simplified": "例如",
+    "traditional": "例如",
+    "pinyin": "li4 ru2",
+    "definitions": [
+      "for example"
+    ],
+    "frequency": 1.3026688076937706e-05
+  },
+  "俩": {
+    "simplified": "俩",
+    "traditional": "倆",
+    "pinyin": "lia3",
+    "definitions": [
+      "two, both"
+    ],
+    "frequency": 0.00026938713993429305
+  },
+  "连": {
+    "simplified": "连",
+    "traditional": "連",
+    "pinyin": "Lian2",
+    "definitions": [
+      "even"
+    ],
+    "frequency": 0.00022971088860613723
+  },
+  "联系": {
+    "simplified": "联系",
+    "traditional": "聯係",
+    "pinyin": "lian2 xi4",
+    "definitions": [
+      "to contact"
+    ],
+    "frequency": 0.00017948212565501587
+  },
+  "凉快": {
+    "simplified": "凉快",
+    "traditional": "涼快",
+    "pinyin": "liang2 kuai5",
+    "definitions": [
+      "cool (temperature)"
+    ],
+    "frequency": 3.1299822610491055e-06
+  },
+  "零钱": {
+    "simplified": "零钱",
+    "traditional": "零錢",
+    "pinyin": "ling2 qian2",
+    "definitions": [
+      "(small) change"
+    ],
+    "frequency": 7.810050975189196e-06
+  },
+  "另外": {
+    "simplified": "另外",
+    "traditional": "另外",
+    "pinyin": "ling4 wai4",
+    "definitions": [
+      "in addition"
+    ],
+    "frequency": 0.00012215873624551652
+  },
+  "留": {
+    "simplified": "留",
+    "traditional": "㽞",
+    "pinyin": "liu2",
+    "definitions": [
+      "to leave (something for someone)"
+    ],
+    "frequency": 0.0002763923383280696
+  },
+  "流利": {
+    "simplified": "流利",
+    "traditional": "流利",
+    "pinyin": "liu2 li4",
+    "definitions": [
+      "fluent"
+    ],
+    "frequency": 1.4308490336224483e-06
+  },
+  "流行": {
+    "simplified": "流行",
+    "traditional": "流行",
+    "pinyin": "liu2 xing2",
+    "definitions": [
+      "to be popular"
+    ],
+    "frequency": 2.1820447762742338e-05
+  },
+  "旅行": {
+    "simplified": "旅行",
+    "traditional": "旅行",
+    "pinyin": "lu:3 xing2",
+    "definitions": [
+      "to travel"
+    ],
+    "frequency": 6.295735747938773e-05
+  },
+  "律师": {
+    "simplified": "律师",
+    "traditional": "律師",
+    "pinyin": "lu:4 shi1",
+    "definitions": [
+      "lawyer"
+    ],
+    "frequency": 0.0002011237172885554
+  },
+  "乱": {
+    "simplified": "乱",
+    "traditional": "亂",
+    "pinyin": "luan4",
+    "definitions": [
+      "chaotic, messy, disorganized"
+    ],
+    "frequency": 9.932477041729162e-05
+  },
+  "麻烦": {
+    "simplified": "麻烦",
+    "traditional": "麻煩",
+    "pinyin": "ma2 fan5",
+    "definitions": [
+      "to trouble or bother someone"
+    ],
+    "frequency": 0.00021987380149998288
+  },
+  "马虎": {
+    "simplified": "马虎",
+    "traditional": "馬虎",
+    "pinyin": "ma3 hu5",
+    "definitions": [
+      "careless"
+    ],
+    "frequency": 1.1625648398182393e-06
+  },
+  "满": {
+    "simplified": "满",
+    "traditional": "滿",
+    "pinyin": "Man3",
+    "definitions": [
+      "to reach a quota or limit"
+    ],
+    "frequency": 9.86987739650818e-05
+  },
+  "毛": {
+    "simplified": "毛",
+    "traditional": "毛",
+    "pinyin": "Mao2",
+    "definitions": [
+      "hair, fur"
+    ],
+    "frequency": 6.164574586523382e-05
+  },
+  "毛巾": {
+    "simplified": "毛巾",
+    "traditional": "毛巾",
+    "pinyin": "mao2 jin1",
+    "definitions": [
+      "towel"
+    ],
+    "frequency": 1.3771921948616065e-05
+  },
+  "美丽": {
+    "simplified": "美丽",
+    "traditional": "美麗",
+    "pinyin": "mei3 li4",
+    "definitions": [
+      "beautiful"
+    ],
+    "frequency": 7.583499878198976e-05
+  },
+  "梦": {
+    "simplified": "梦",
+    "traditional": "夢",
+    "pinyin": "meng4",
+    "definitions": [
+      "dream"
+    ],
+    "frequency": 0.00012081731527649548
+  },
+  "迷路": {
+    "simplified": "迷路",
+    "traditional": "迷路",
+    "pinyin": "mi2 lu4",
+    "definitions": [
+      "to get lost"
+    ],
+    "frequency": 1.8571228082224693e-05
+  },
+  "密码": {
+    "simplified": "密码",
+    "traditional": "密碼",
+    "pinyin": "mi4 ma3",
+    "definitions": [
+      "password, PIN"
+    ],
+    "frequency": 4.44457481068973e-05
+  },
+  "免费": {
+    "simplified": "免费",
+    "traditional": "免費",
+    "pinyin": "mian3 fei4",
+    "definitions": [
+      "to be free of charge"
+    ],
+    "frequency": 5.106342488740112e-05
+  },
+  "秒": {
+    "simplified": "秒",
+    "traditional": "秒",
+    "pinyin": "miao3",
+    "definitions": [
+      "second (unit of time)"
+    ],
+    "frequency": 9.461489234828439e-05
+  },
+  "民族": {
+    "simplified": "民族",
+    "traditional": "民族",
+    "pinyin": "min2 zu2",
+    "definitions": [
+      "nationality, ethnic group"
+    ],
+    "frequency": 7.661004200853525e-06
+  },
+  "母亲": {
+    "simplified": "母亲",
+    "traditional": "母親",
+    "pinyin": "mu3 qin1",
+    "definitions": [
+      "mother"
+    ],
+    "frequency": 0.00018466895340189723
+  },
+  "目的": {
+    "simplified": "目的",
+    "traditional": "目的",
+    "pinyin": "mu4 di4",
+    "definitions": [
+      "purpose, aim, goal"
+    ],
+    "frequency": 5.470016618119151e-05
+  },
+  "耐心": {
+    "simplified": "耐心",
+    "traditional": "耐心",
+    "pinyin": "nai4 xin1",
+    "definitions": [
+      "patience"
+    ],
+    "frequency": 2.7096703574225115e-05
+  },
+  "难道": {
+    "simplified": "难道",
+    "traditional": "難道",
+    "pinyin": "nan2 dao4",
+    "definitions": [
+      "could it be that...? [rhetorical question marker]"
+    ],
+    "frequency": 0.00017512995984441423
+  },
+  "难受": {
+    "simplified": "难受",
+    "traditional": "難受",
+    "pinyin": "nan2 shou4",
+    "definitions": [
+      "to feel unwell;to suffer pain;to be difficult to bear"
+    ],
+    "frequency": 1.6961522919399438e-05
+  },
+  "内": {
+    "simplified": "内",
+    "traditional": "內",
+    "pinyin": "nei4",
+    "definitions": [
+      "in, within"
+    ],
+    "frequency": 0.0001918530079248766
+  },
+  "内容": {
+    "simplified": "内容",
+    "traditional": "內容",
+    "pinyin": "nei4 rong2",
+    "definitions": [
+      "content"
+    ],
+    "frequency": 3.970606068302294e-05
+  },
+  "能力": {
+    "simplified": "能力",
+    "traditional": "能力",
+    "pinyin": "neng2 li4",
+    "definitions": [
+      "ability"
+    ],
+    "frequency": 0.00012329149173046763
+  },
+  "年龄": {
+    "simplified": "年龄",
+    "traditional": "年齡",
+    "pinyin": "nian2 ling2",
+    "definitions": [
+      "(a person's) age"
+    ],
+    "frequency": 2.8944883575987444e-05
+  },
+  "弄": {
+    "simplified": "弄",
+    "traditional": "弄",
+    "pinyin": "long4",
+    "definitions": [
+      "to do"
+    ],
+    "frequency": 0.0004046321829664815
+  },
+  "暖和": {
+    "simplified": "暖和",
+    "traditional": "暖和",
+    "pinyin": "nuan3 huo5",
+    "definitions": [
+      "warm"
+    ],
+    "frequency": 7.750432265454929e-06
+  },
+  "偶尔": {
+    "simplified": "偶尔",
+    "traditional": "偶爾",
+    "pinyin": "ou3 er3",
+    "definitions": [
+      "occasionally"
+    ],
+    "frequency": 2.0151123890182815e-05
+  },
+  "排队": {
+    "simplified": "排队",
+    "traditional": "排隊",
+    "pinyin": "pai2 dui4",
+    "definitions": [
+      "to line up"
+    ],
+    "frequency": 1.3056497431804841e-05
+  },
+  "排列": {
+    "simplified": "排列",
+    "traditional": "排列",
+    "pinyin": "pai2 lie4",
+    "definitions": [
+      "to arrange in order"
+    ],
+    "frequency": 3.5175038743218523e-06
+  },
+  "判断": {
+    "simplified": "判断",
+    "traditional": "判斷",
+    "pinyin": "pan4 duan4",
+    "definitions": [
+      "to judge, to determine"
+    ],
+    "frequency": 2.5576426476001263e-05
+  },
+  "陪": {
+    "simplified": "陪",
+    "traditional": "陪",
+    "pinyin": "pei2",
+    "definitions": [
+      "to accompany; to keep someone company"
+    ],
+    "frequency": 9.118681653856394e-05
+  },
+  "批评": {
+    "simplified": "批评",
+    "traditional": "批評",
+    "pinyin": "pi1 ping2",
+    "definitions": [
+      "to criticize"
+    ],
+    "frequency": 1.3175734851273378e-05
+  },
+  "皮肤": {
+    "simplified": "皮肤",
+    "traditional": "皮膚",
+    "pinyin": "pi2 fu1",
+    "definitions": [
+      "skin"
+    ],
+    "frequency": 3.437018616180589e-05
+  },
+  "脾气": {
+    "simplified": "脾气",
+    "traditional": "脾氣",
+    "pinyin": "pi2 qi5",
+    "definitions": [
+      "temper, temperament"
+    ],
+    "frequency": 1.9048177760098844e-05
+  },
+  "篇": {
+    "simplified": "篇",
+    "traditional": "篇",
+    "pinyin": "pian1",
+    "definitions": [
+      "[measure word for essays and other written pieces]"
+    ],
+    "frequency": 3.806654616533055e-05
+  },
+  "骗": {
+    "simplified": "骗",
+    "traditional": "騙",
+    "pinyin": "pian4",
+    "definitions": [
+      "to trick, to fool, to cheat, to deceive"
+    ],
+    "frequency": 0.0001019181842907323
+  },
+  "乒乓球": {
+    "simplified": "乒乓球",
+    "traditional": "乒乓球",
+    "pinyin": "ping1 pang1 qiu2",
+    "definitions": [
+      "table tennis"
+    ],
+    "frequency": 2.2357016150350753e-06
+  },
+  "平时": {
+    "simplified": "平时",
+    "traditional": "平時",
+    "pinyin": "ping2 shi2",
+    "definitions": [
+      "usually"
+    ],
+    "frequency": 1.9197224534434515e-05
+  },
+  "破": {
+    "simplified": "破",
+    "traditional": "破",
+    "pinyin": "po4",
+    "definitions": [
+      "to break"
+    ],
+    "frequency": 8.522494556513708e-05
+  },
+  "葡萄": {
+    "simplified": "葡萄",
+    "traditional": "葡萄",
+    "pinyin": "pu2 tao5",
+    "definitions": [
+      "grape(s)"
+    ],
+    "frequency": 7.094626458377973e-06
+  },
+  "普遍": {
+    "simplified": "普遍",
+    "traditional": "普遍",
+    "pinyin": "pu3 bian4",
+    "definitions": [
+      "universal; general; widespread; common"
+    ],
+    "frequency": 3.755978713258927e-06
+  },
+  "普通话": {
+    "simplified": "普通话",
+    "traditional": "普通話",
+    "pinyin": "pu3 tong1 hua4",
+    "definitions": [
+      "Mandarin (lit. \"common speech\")"
+    ],
+    "frequency": 9.53899355748299e-07
+  },
+  "其次": {
+    "simplified": "其次",
+    "traditional": "其次",
+    "pinyin": "qi2 ci4",
+    "definitions": [
+      "next"
+    ],
+    "frequency": 1.016499000969281e-05
+  },
+  "其中": {
+    "simplified": "其中",
+    "traditional": "其中",
+    "pinyin": "qi2 zhong1",
+    "definitions": [
+      "among"
+    ],
+    "frequency": 0.00013721246045341937
+  },
+  "气候": {
+    "simplified": "气候",
+    "traditional": "氣候",
+    "pinyin": "qi4 hou4",
+    "definitions": [
+      "climate"
+    ],
+    "frequency": 4.650259359272957e-06
+  },
+  "千万": {
+    "simplified": "千万",
+    "traditional": "千萬",
+    "pinyin": "qian1 wan4",
+    "definitions": [
+      "ten million"
+    ],
+    "frequency": 4.674106843166664e-05
+  },
+  "签证": {
+    "simplified": "签证",
+    "traditional": "簽證",
+    "pinyin": "qian1 zheng4",
+    "definitions": [
+      "visa (in a passport)"
+    ],
+    "frequency": 5.5743493601541215e-06
+  },
+  "敲": {
+    "simplified": "敲",
+    "traditional": "敲",
+    "pinyin": "qiao1",
+    "definitions": [
+      "to knock, to strike, to tap"
+    ],
+    "frequency": 2.790155615563774e-05
+  },
+  "桥": {
+    "simplified": "桥",
+    "traditional": "橋",
+    "pinyin": "qiao2",
+    "definitions": [
+      "bridge"
+    ],
+    "frequency": 3.201524712730228e-05
+  },
+  "巧克力": {
+    "simplified": "巧克力",
+    "traditional": "巧克力",
+    "pinyin": "qiao3 ke4 li4",
+    "definitions": [
+      "chocolate"
+    ],
+    "frequency": 5.046723779005844e-05
+  },
+  "亲戚": {
+    "simplified": "亲戚",
+    "traditional": "親戚",
+    "pinyin": "qin1 qi5",
+    "definitions": [
+      "relatives"
+    ],
+    "frequency": 1.4517155820294424e-05
+  },
+  "轻": {
+    "simplified": "轻",
+    "traditional": "輕",
+    "pinyin": "qing1",
+    "definitions": [
+      "light, easy, gentle, soft"
+    ],
+    "frequency": 3.684436261577804e-05
+  },
+  "轻松": {
+    "simplified": "轻松",
+    "traditional": "輕鬆",
+    "pinyin": "qing1 song1",
+    "definitions": [
+      "gentle, relaxed"
+    ],
+    "frequency": 5.198751488828229e-05
+  },
+  "情况": {
+    "simplified": "情况",
+    "traditional": "情況",
+    "pinyin": "qing2 kuang4",
+    "definitions": [
+      "situation, circumstances"
+    ],
+    "frequency": 0.0003181552444969248
+  },
+  "穷": {
+    "simplified": "穷",
+    "traditional": "窮",
+    "pinyin": "qiong2",
+    "definitions": [
+      "poor"
+    ],
+    "frequency": 1.2788213238000632e-05
+  },
+  "区别": {
+    "simplified": "区别",
+    "traditional": "區別",
+    "pinyin": "qu1 bie2",
+    "definitions": [
+      "difference"
+    ],
+    "frequency": 3.434037680693876e-05
+  },
+  "取": {
+    "simplified": "取",
+    "traditional": "取",
+    "pinyin": "qu3",
+    "definitions": [
+      "to take"
+    ],
+    "frequency": 6.921732200148594e-05
+  },
+  "全部": {
+    "simplified": "全部",
+    "traditional": "全部",
+    "pinyin": "quan2 bu4",
+    "definitions": [
+      "whole, entire"
+    ],
+    "frequency": 0.00010835700494203332
+  },
+  "缺点": {
+    "simplified": "缺点",
+    "traditional": "缺點",
+    "pinyin": "que1 dian3",
+    "definitions": [
+      "weak point, weakness"
+    ],
+    "frequency": 8.614903556601824e-06
+  },
+  "缺少": {
+    "simplified": "缺少",
+    "traditional": "缺少",
+    "pinyin": "que1 shao3",
+    "definitions": [
+      "to lack"
+    ],
+    "frequency": 1.1238126784909646e-05
+  },
+  "却": {
+    "simplified": "却",
+    "traditional": "㕁",
+    "pinyin": "que4",
+    "definitions": [
+      "however, yet"
+    ],
+    "frequency": 0.0003978356500567749
+  },
+  "确实": {
+    "simplified": "确实",
+    "traditional": "確實",
+    "pinyin": "que4 shi2",
+    "definitions": [
+      "indeed"
+    ],
+    "frequency": 0.000227445377636235
+  },
+  "然而": {
+    "simplified": "然而",
+    "traditional": "然而",
+    "pinyin": "ran2 er2",
+    "definitions": [
+      "however, but"
+    ],
+    "frequency": 2.7215940993693654e-05
+  },
+  "热闹": {
+    "simplified": "热闹",
+    "traditional": "熱鬧",
+    "pinyin": "re4 nao5",
+    "definitions": [
+      "bustling with noise and excitement;lively"
+    ],
+    "frequency": 5.84263355395833e-06
+  },
+  "任何": {
+    "simplified": "任何",
+    "traditional": "任何",
+    "pinyin": "ren4 he2",
+    "definitions": [
+      "any"
+    ],
+    "frequency": 0.00044469595590791006
+  },
+  "任务": {
+    "simplified": "任务",
+    "traditional": "任務",
+    "pinyin": "ren4 wu5",
+    "definitions": [
+      "task, assignment"
+    ],
+    "frequency": 0.00014693031014010517
+  },
+  "扔": {
+    "simplified": "扔",
+    "traditional": "扔",
+    "pinyin": "reng1",
+    "definitions": [
+      "to throw, to throw away"
+    ],
+    "frequency": 0.00012355977592427183
+  },
+  "仍然": {
+    "simplified": "仍然",
+    "traditional": "仍然",
+    "pinyin": "reng2 ran2",
+    "definitions": [
+      "still, yet"
+    ],
+    "frequency": 8.710293492176654e-05
+  },
+  "日记": {
+    "simplified": "日记",
+    "traditional": "日記",
+    "pinyin": "ri4 ji4",
+    "definitions": [
+      "diary"
+    ],
+    "frequency": 2.0300170664518486e-05
+  },
+  "入口": {
+    "simplified": "入口",
+    "traditional": "入口",
+    "pinyin": "ru4 kou3",
+    "definitions": [
+      "entrance"
+    ],
+    "frequency": 1.573933936984693e-05
+  },
+  "散步": {
+    "simplified": "散步",
+    "traditional": "散步",
+    "pinyin": "san4 bu4",
+    "definitions": [
+      "to take a walk"
+    ],
+    "frequency": 1.7766375500812067e-05
+  },
+  "森林": {
+    "simplified": "森林",
+    "traditional": "森林",
+    "pinyin": "sen1 lin2",
+    "definitions": [
+      "forest"
+    ],
+    "frequency": 2.492062066892431e-05
+  },
+  "沙发": {
+    "simplified": "沙发",
+    "traditional": "沙發",
+    "pinyin": "sha1 fa1",
+    "definitions": [
+      "sofa"
+    ],
+    "frequency": 2.706689421935798e-05
+  },
+  "伤心": {
+    "simplified": "伤心",
+    "traditional": "傷心",
+    "pinyin": "shang1 xin1",
+    "definitions": [
+      "sad"
+    ],
+    "frequency": 5.100380617766685e-05
+  },
+  "商量": {
+    "simplified": "商量",
+    "traditional": "商量",
+    "pinyin": "shang1 liang5",
+    "definitions": [
+      "to discuss and come to an agreement"
+    ],
+    "frequency": 2.4205196152113083e-05
+  },
+  "稍微": {
+    "simplified": "稍微",
+    "traditional": "稍微",
+    "pinyin": "shao1 wei1",
+    "definitions": [
+      "a little bit"
+    ],
+    "frequency": 2.8140030994574818e-05
+  },
+  "勺子": {
+    "simplified": "勺子",
+    "traditional": "勺子",
+    "pinyin": "shao2 zi5",
+    "definitions": [
+      "spoon, ladle"
+    ],
+    "frequency": 4.560831294671554e-06
+  },
+  "社会": {
+    "simplified": "社会",
+    "traditional": "社會",
+    "pinyin": "she4 hui4",
+    "definitions": [
+      "society"
+    ],
+    "frequency": 5.3805885535177485e-05
+  },
+  "申请": {
+    "simplified": "申请",
+    "traditional": "申請",
+    "pinyin": "shen1 qing3",
+    "definitions": [
+      "to apply (for)"
+    ],
+    "frequency": 4.972200391838008e-05
+  },
+  "深": {
+    "simplified": "深",
+    "traditional": "㴱",
+    "pinyin": "shen1",
+    "definitions": [
+      "deep"
+    ],
+    "frequency": 6.92769407112202e-05
+  },
+  "甚至": {
+    "simplified": "甚至",
+    "traditional": "甚至",
+    "pinyin": "shen4 zhi4",
+    "definitions": [
+      "even"
+    ],
+    "frequency": 0.0002116464195566538
+  },
+  "生活": {
+    "simplified": "生活",
+    "traditional": "生活",
+    "pinyin": "sheng1 huo2",
+    "definitions": [
+      "to live"
+    ],
+    "frequency": 0.00047450531077504444
+  },
+  "生命": {
+    "simplified": "生命",
+    "traditional": "生命",
+    "pinyin": "sheng1 ming4",
+    "definitions": [
+      "(a) life (which you lose when you die)"
+    ],
+    "frequency": 0.00017581557500635835
+  },
+  "生意": {
+    "simplified": "生意",
+    "traditional": "生意",
+    "pinyin": "sheng1 yi4",
+    "definitions": [
+      "business"
+    ],
+    "frequency": 0.00010570397235885836
+  },
+  "省": {
+    "simplified": "省",
+    "traditional": "省",
+    "pinyin": "sheng3",
+    "definitions": [
+      "to save, to economize"
+    ],
+    "frequency": 4.176290616885521e-05
+  },
+  "剩": {
+    "simplified": "剩",
+    "traditional": "剩",
+    "pinyin": "sheng4",
+    "definitions": [
+      "to remain, to be left"
+    ],
+    "frequency": 5.422321650331736e-05
+  },
+  "失败": {
+    "simplified": "失败",
+    "traditional": "失敗",
+    "pinyin": "shi1 bai4",
+    "definitions": [
+      "to fail"
+    ],
+    "frequency": 7.720622910587794e-05
+  },
+  "失望": {
+    "simplified": "失望",
+    "traditional": "失望",
+    "pinyin": "shi1 wang4",
+    "definitions": [
+      "to be disappointed"
+    ],
+    "frequency": 8.149877620674528e-05
+  },
+  "师傅": {
+    "simplified": "师傅",
+    "traditional": "師傅",
+    "pinyin": "shi1 fu5",
+    "definitions": [
+      "master; qualified worker"
+    ],
+    "frequency": 1.1923741946853737e-05
+  },
+  "十分": {
+    "simplified": "十分",
+    "traditional": "十分",
+    "pinyin": "shi2 fen1",
+    "definitions": [
+      "very, extremely"
+    ],
+    "frequency": 5.663777424755524e-05
+  },
+  "实际": {
+    "simplified": "实际",
+    "traditional": "實際",
+    "pinyin": "shi2 ji4",
+    "definitions": [
+      "actual"
+    ],
+    "frequency": 1.997226776098001e-05
+  },
+  "实在": {
+    "simplified": "实在",
+    "traditional": "實在",
+    "pinyin": "shi2 zai4",
+    "definitions": [
+      "actually"
+    ],
+    "frequency": 0.00010212684977480225
+  },
+  "使": {
+    "simplified": "使",
+    "traditional": "使",
+    "pinyin": "shi3",
+    "definitions": [
+      "to make, to cause"
+    ],
+    "frequency": 0.00014651297917196528
+  },
+  "使用": {
+    "simplified": "使用",
+    "traditional": "使用",
+    "pinyin": "shi3 yong4",
+    "definitions": [
+      "to use; to employ; to apply; to make use of"
+    ],
+    "frequency": 8.993482363414431e-05
+  },
+  "世纪": {
+    "simplified": "世纪",
+    "traditional": "世紀",
+    "pinyin": "shi4 ji4",
+    "definitions": [
+      "century"
+    ],
+    "frequency": 3.574141648569407e-05
+  },
+  "是否": {
+    "simplified": "是否",
+    "traditional": "是否",
+    "pinyin": "shi4 fou3",
+    "definitions": [
+      "whether or not"
+    ],
+    "frequency": 0.00019179338921514235
+  },
+  "适合": {
+    "simplified": "适合",
+    "traditional": "適合",
+    "pinyin": "shi4 he2",
+    "definitions": [
+      "to fit, to suit"
+    ],
+    "frequency": 8.155839491647956e-05
+  },
+  "适应": {
+    "simplified": "适应",
+    "traditional": "適應",
+    "pinyin": "shi4 ying4",
+    "definitions": [
+      "to adapt to"
+    ],
+    "frequency": 2.76034626069664e-05
+  },
+  "收": {
+    "simplified": "收",
+    "traditional": "收",
+    "pinyin": "shou1",
+    "definitions": [
+      "to receive (money)"
+    ],
+    "frequency": 9.649288170491386e-05
+  },
+  "收入": {
+    "simplified": "收入",
+    "traditional": "收入",
+    "pinyin": "shou1 ru4",
+    "definitions": [
+      "revenue"
+    ],
+    "frequency": 1.6305717112322483e-05
+  },
+  "收拾": {
+    "simplified": "收拾",
+    "traditional": "收拾",
+    "pinyin": "shou1 shi5",
+    "definitions": [
+      "to clear away"
+    ],
+    "frequency": 5.7859957797107755e-05
+  },
+  "首都": {
+    "simplified": "首都",
+    "traditional": "首都",
+    "pinyin": "shou3 du1",
+    "definitions": [
+      "capital (city)"
+    ],
+    "frequency": 8.465856782266153e-06
+  },
+  "首先": {
+    "simplified": "首先",
+    "traditional": "首先",
+    "pinyin": "shou3 xian1",
+    "definitions": [
+      "first of all"
+    ],
+    "frequency": 0.00010802910203849485
+  },
+  "受不了": {
+    "simplified": "受不了",
+    "traditional": "受不了",
+    "pinyin": "shou4 bu4 liao3",
+    "definitions": [
+      "to be unable to stand"
+    ],
+    "frequency": 3.460866100074297e-05
+  },
+  "受到": {
+    "simplified": "受到",
+    "traditional": "受到",
+    "pinyin": "shou4 dao4",
+    "definitions": [
+      "to receive"
+    ],
+    "frequency": 8.665579459875953e-05
+  },
+  "售货员": {
+    "simplified": "售货员",
+    "traditional": "售貨員",
+    "pinyin": "shou4 huo4 yuan2",
+    "definitions": [
+      "salesperson"
+    ],
+    "frequency": 1.5202770982238513e-06
+  },
+  "输": {
+    "simplified": "输",
+    "traditional": "輸",
+    "pinyin": "shu1",
+    "definitions": [
+      "to lose (a competition)"
+    ],
+    "frequency": 9.354175557306756e-05
+  },
+  "熟悉": {
+    "simplified": "熟悉",
+    "traditional": "熟悉",
+    "pinyin": "shu2 xi1",
+    "definitions": [
+      "to be familiar with"
+    ],
+    "frequency": 3.639722229277103e-05
+  },
+  "数量": {
+    "simplified": "数量",
+    "traditional": "數量",
+    "pinyin": "shu4 liang4",
+    "definitions": [
+      "amount, quantity"
+    ],
+    "frequency": 1.263916646366496e-05
+  },
+  "数字": {
+    "simplified": "数字",
+    "traditional": "數字",
+    "pinyin": "shu4 zi4",
+    "definitions": [
+      "number"
+    ],
+    "frequency": 4.2478330685666433e-05
+  },
+  "帅": {
+    "simplified": "帅",
+    "traditional": "帥",
+    "pinyin": "Shuai4",
+    "definitions": [
+      "handsome"
+    ],
+    "frequency": 6.760761683866068e-05
+  },
+  "顺便": {
+    "simplified": "顺便",
+    "traditional": "順便",
+    "pinyin": "shun4 bian4",
+    "definitions": [
+      "while we're at it..."
+    ],
+    "frequency": 5.523673456879993e-05
+  },
+  "顺利": {
+    "simplified": "顺利",
+    "traditional": "順利",
+    "pinyin": "shun4 li4",
+    "definitions": [
+      "smooth; smoothly"
+    ],
+    "frequency": 5.9171569411261665e-05
+  },
+  "顺序": {
+    "simplified": "顺序",
+    "traditional": "順序",
+    "pinyin": "shun4 xu4",
+    "definitions": [
+      "order, sequence"
+    ],
+    "frequency": 9.688040331818661e-06
+  },
+  "说明": {
+    "simplified": "说明",
+    "traditional": "說明",
+    "pinyin": "shuo1 ming2",
+    "definitions": [
+      "to indicate, to show"
+    ],
+    "frequency": 8.80270249226477e-05
+  },
+  "硕士": {
+    "simplified": "硕士",
+    "traditional": "碩士",
+    "pinyin": "shuo4 shi4",
+    "definitions": [
+      "master's degree, M.A."
+    ],
+    "frequency": 2.623223228307822e-06
+  },
+  "死": {
+    "simplified": "死",
+    "traditional": "死",
+    "pinyin": "si3",
+    "definitions": [
+      "to die"
+    ],
+    "frequency": 0.0013132809380264705
+  },
+  "速度": {
+    "simplified": "速度",
+    "traditional": "速度",
+    "pinyin": "su4 du4",
+    "definitions": [
+      "speed; rate; velocity"
+    ],
+    "frequency": 4.271680552460351e-05
+  },
+  "塑料袋": {
+    "simplified": "塑料袋",
+    "traditional": "塑料袋",
+    "pinyin": "su4 liao4 dai4",
+    "definitions": [
+      "plastic bag"
+    ],
+    "frequency": 3.1001729061819712e-06
+  },
+  "酸": {
+    "simplified": "酸",
+    "traditional": "酸",
+    "pinyin": "suan1",
+    "definitions": [
+      "sour; sore; acid"
+    ],
+    "frequency": 1.627590775745535e-05
+  },
+  "随便": {
+    "simplified": "随便",
+    "traditional": "隨便",
+    "pinyin": "sui2 bian4",
+    "definitions": [
+      "as one pleases"
+    ],
+    "frequency": 0.00011837294817739047
+  },
+  "随着": {
+    "simplified": "随着",
+    "traditional": "隨著",
+    "pinyin": "sui2 zhe5",
+    "definitions": [
+      "along with"
+    ],
+    "frequency": 2.1134832600798247e-05
+  },
+  "孙子": {
+    "simplified": "孙子",
+    "traditional": "孫子",
+    "pinyin": "Sun1 zi3",
+    "definitions": [
+      "grandson"
+    ],
+    "frequency": 1.6365335822056754e-05
+  },
+  "所有": {
+    "simplified": "所有",
+    "traditional": "所有",
+    "pinyin": "suo3 you3",
+    "definitions": [
+      "all"
+    ],
+    "frequency": 0.0008271797882081108
+  },
+  "台": {
+    "simplified": "台",
+    "traditional": "台",
+    "pinyin": "Tai2",
+    "definitions": [
+      "[measure word for computers]"
+    ],
+    "frequency": 0.00010743291494115216
+  },
+  "抬": {
+    "simplified": "抬",
+    "traditional": "抬",
+    "pinyin": "tai2",
+    "definitions": [
+      "to lift, to raise"
+    ],
+    "frequency": 3.1299822610491057e-05
+  },
+  "态度": {
+    "simplified": "态度",
+    "traditional": "態度",
+    "pinyin": "tai4 du5",
+    "definitions": [
+      "attitude"
+    ],
+    "frequency": 3.7440549713120734e-05
+  },
+  "谈": {
+    "simplified": "谈",
+    "traditional": "談",
+    "pinyin": "Tan2",
+    "definitions": [
+      "to talk"
+    ],
+    "frequency": 0.00034736841226671645
+  },
+  "弹钢琴": {
+    "definitions": [
+      "to play the piano"
+    ]
+  },
+  "汤": {
+    "simplified": "汤",
+    "traditional": "湯",
+    "pinyin": "Tang1",
+    "definitions": [
+      "soup, broth"
+    ],
+    "frequency": 3.001802035120428e-05
+  },
+  "糖": {
+    "simplified": "糖",
+    "traditional": "糖",
+    "pinyin": "tang2",
+    "definitions": [
+      "sugar; candy"
+    ],
+    "frequency": 4.560831294671554e-05
+  },
+  "躺": {
+    "simplified": "躺",
+    "traditional": "躺",
+    "pinyin": "tang3",
+    "definitions": [
+      "to lie on one's back"
+    ],
+    "frequency": 6.617676780503823e-05
+  },
+  "趟": {
+    "simplified": "趟",
+    "traditional": "䠀",
+    "pinyin": "tang1",
+    "definitions": [
+      "time(s) [measure word used for round trips]"
+    ],
+    "frequency": 4.528041004317706e-05
+  },
+  "讨论": {
+    "simplified": "讨论",
+    "traditional": "討論",
+    "pinyin": "tao3 lun4",
+    "definitions": [
+      "to discuss"
+    ],
+    "frequency": 8.841454653592045e-05
+  },
+  "讨厌": {
+    "simplified": "讨厌",
+    "traditional": "討厭",
+    "pinyin": "tao3 yan4",
+    "definitions": [
+      "to dislike, to hate"
+    ],
+    "frequency": 0.00016964503854886154
+  },
+  "特点": {
+    "simplified": "特点",
+    "traditional": "特點",
+    "pinyin": "te4 dian3",
+    "definitions": [
+      "characteristic, special trait"
+    ],
+    "frequency": 6.766723554839495e-06
+  },
+  "提": {
+    "simplified": "提",
+    "traditional": "提",
+    "pinyin": "di1",
+    "definitions": [
+      "to raise (an issue), to mention"
+    ],
+    "frequency": 0.00015748282176307073
+  },
+  "提供": {
+    "simplified": "提供",
+    "traditional": "提供",
+    "pinyin": "ti2 gong1",
+    "definitions": [
+      "to provide"
+    ],
+    "frequency": 9.369080234740323e-05
+  },
+  "提前": {
+    "simplified": "提前",
+    "traditional": "提前",
+    "pinyin": "ti2 qian2",
+    "definitions": [
+      "to move up the date"
+    ],
+    "frequency": 2.5993757444141144e-05
+  },
+  "提醒": {
+    "simplified": "提醒",
+    "traditional": "提醒",
+    "pinyin": "ti2 xing3",
+    "definitions": [
+      "to remind"
+    ],
+    "frequency": 6.298716683425486e-05
+  },
+  "填空": {
+    "simplified": "填空",
+    "traditional": "填空",
+    "pinyin": "tian2 kong4",
+    "definitions": [
+      "to fill in the blank"
+    ],
+    "frequency": 1.1923741946853737e-07
+  },
+  "条件": {
+    "simplified": "条件",
+    "traditional": "條件",
+    "pinyin": "tiao2 jian4",
+    "definitions": [
+      "conditions, circumstances, qualifications"
+    ],
+    "frequency": 4.697954327060372e-05
+  },
+  "停": {
+    "simplified": "停",
+    "traditional": "停",
+    "pinyin": "ting2",
+    "definitions": [
+      "to stop"
+    ],
+    "frequency": 0.0002691188557404888
+  },
+  "挺": {
+    "simplified": "挺",
+    "traditional": "挺",
+    "pinyin": "ting3",
+    "definitions": [
+      "rather; quite"
+    ],
+    "frequency": 0.00022664052505482239
+  },
+  "通过": {
+    "simplified": "通过",
+    "traditional": "通過",
+    "pinyin": "tong1 guo4",
+    "definitions": [
+      "via, by means of"
+    ],
+    "frequency": 0.00018529494985410706
+  },
+  "通知": {
+    "simplified": "通知",
+    "traditional": "通知",
+    "pinyin": "tong1 zhi1",
+    "definitions": [
+      "to notify"
+    ],
+    "frequency": 8.215458201382224e-05
+  },
+  "同情": {
+    "simplified": "同情",
+    "traditional": "同情",
+    "pinyin": "tong2 qing2",
+    "definitions": [
+      "to show sympathy for"
+    ],
+    "frequency": 2.480138324945577e-05
+  },
+  "同时": {
+    "simplified": "同时",
+    "traditional": "同時",
+    "pinyin": "tong2 shi2",
+    "definitions": [
+      "at the same time"
+    ],
+    "frequency": 9.37504210571375e-05
+  },
+  "推": {
+    "simplified": "推",
+    "traditional": "推",
+    "pinyin": "tui1",
+    "definitions": [
+      "to push"
+    ],
+    "frequency": 6.704123909618514e-05
+  },
+  "推迟": {
+    "simplified": "推迟",
+    "traditional": "推遲",
+    "pinyin": "tui1 chi2",
+    "definitions": [
+      "to postpone"
+    ],
+    "frequency": 8.64471291146896e-06
+  },
+  "脱": {
+    "simplified": "脱",
+    "traditional": "脫",
+    "pinyin": "tuo1",
+    "definitions": [
+      "to take off (clothing)"
+    ],
+    "frequency": 9.127624460316534e-05
+  },
+  "袜子": {
+    "simplified": "袜子",
+    "traditional": "襪子",
+    "pinyin": "wa4 zi5",
+    "definitions": [
+      "socks"
+    ],
+    "frequency": 1.5649911305245528e-05
+  },
+  "完全": {
+    "simplified": "完全",
+    "traditional": "完全",
+    "pinyin": "wan2 quan2",
+    "definitions": [
+      "completely; totally"
+    ],
+    "frequency": 0.00035973929453657724
+  },
+  "网球": {
+    "simplified": "网球",
+    "traditional": "網球",
+    "pinyin": "wang3 qiu2",
+    "definitions": [
+      "tennis"
+    ],
+    "frequency": 1.016499000969281e-05
+  },
+  "网站": {
+    "simplified": "网站",
+    "traditional": "網站",
+    "pinyin": "wang3 zhan4",
+    "definitions": [
+      "website"
+    ],
+    "frequency": 2.453309905565156e-05
+  },
+  "往往": {
+    "simplified": "往往",
+    "traditional": "往往",
+    "pinyin": "wang3 wang3",
+    "definitions": [
+      "often;frequently"
+    ],
+    "frequency": 7.064817103510838e-06
+  },
+  "危险": {
+    "simplified": "危险",
+    "traditional": "危險",
+    "pinyin": "wei1 xian3",
+    "definitions": [
+      "danger"
+    ],
+    "frequency": 0.0001702412256462042
+  },
+  "卫生间": {
+    "simplified": "卫生间",
+    "traditional": "衛生間",
+    "pinyin": "wei4 sheng1 jian1",
+    "definitions": [
+      "restroom"
+    ],
+    "frequency": 1.0194799364559945e-05
+  },
+  "味道": {
+    "simplified": "味道",
+    "traditional": "味道",
+    "pinyin": "wei4 dao5",
+    "definitions": [
+      "flavor, smell, taste"
+    ],
+    "frequency": 7.553690523331842e-05
+  },
+  "温度": {
+    "simplified": "温度",
+    "traditional": "溫度",
+    "pinyin": "wen1 du4",
+    "definitions": [
+      "temperature"
+    ],
+    "frequency": 1.2728594528266362e-05
+  },
+  "文章": {
+    "simplified": "文章",
+    "traditional": "文章",
+    "pinyin": "wen2 zhang1",
+    "definitions": [
+      "essay, article"
+    ],
+    "frequency": 3.3088383902519114e-05
+  },
+  "污染": {
+    "simplified": "污染",
+    "traditional": "污染",
+    "pinyin": "wu1 ran3",
+    "definitions": [
+      "to pollute"
+    ],
+    "frequency": 1.1864123237119467e-05
+  },
+  "无": {
+    "simplified": "无",
+    "traditional": "無",
+    "pinyin": "mo2",
+    "definitions": [
+      "not to have"
+    ],
+    "frequency": 0.0001981725911567091
+  },
+  "无聊": {
+    "simplified": "无聊",
+    "traditional": "無聊",
+    "pinyin": "wu2 liao2",
+    "definitions": [
+      "boring; bored"
+    ],
+    "frequency": 5.481940360066005e-05
+  },
+  "无论": {
+    "simplified": "无论",
+    "traditional": "無論",
+    "pinyin": "wu2 lun4",
+    "definitions": [
+      "regardless of"
+    ],
+    "frequency": 8.209496330408798e-05
+  },
+  "误会": {
+    "simplified": "误会",
+    "traditional": "誤會",
+    "pinyin": "wu4 hui4",
+    "definitions": [
+      "to misunderstand"
+    ],
+    "frequency": 3.225372196623935e-05
+  },
+  "西红柿": {
+    "simplified": "西红柿",
+    "traditional": "西紅柿",
+    "pinyin": "xi1 hong2 shi4",
+    "definitions": [
+      "tomato"
+    ],
+    "frequency": 2.7722700026434934e-06
+  },
+  "吸引": {
+    "simplified": "吸引",
+    "traditional": "吸引",
+    "pinyin": "xi1 yin3",
+    "definitions": [
+      "to attract"
+    ],
+    "frequency": 4.802287069095342e-05
+  },
+  "咸": {
+    "simplified": "咸",
+    "traditional": "咸",
+    "pinyin": "Xian2",
+    "definitions": [
+      "salty"
+    ],
+    "frequency": 5.42530258581845e-06
+  },
+  "现金": {
+    "simplified": "现金",
+    "traditional": "現金",
+    "pinyin": "xian4 jin1",
+    "definitions": [
+      "cash"
+    ],
+    "frequency": 3.839444906886903e-05
+  },
+  "羡慕": {
+    "simplified": "羡慕",
+    "traditional": "羨慕",
+    "pinyin": "xian4 mu4",
+    "definitions": [
+      "to be envious of"
+    ],
+    "frequency": 8.078335168993406e-06
+  },
+  "相反": {
+    "simplified": "相反",
+    "traditional": "相反",
+    "pinyin": "xiang1 fan3",
+    "definitions": [
+      "opposite"
+    ],
+    "frequency": 1.985303034151147e-05
+  },
+  "相同": {
+    "simplified": "相同",
+    "traditional": "相同",
+    "pinyin": "xiang1 tong2",
+    "definitions": [
+      "same, identical"
+    ],
+    "frequency": 3.5264466807819924e-05
+  },
+  "香": {
+    "simplified": "香",
+    "traditional": "香",
+    "pinyin": "xiang1",
+    "definitions": [
+      "fragrant, good-smelling"
+    ],
+    "frequency": 2.9242977124658786e-05
+  },
+  "详细": {
+    "simplified": "详细",
+    "traditional": "詳細",
+    "pinyin": "xiang2 xi4",
+    "definitions": [
+      "detailed"
+    ],
+    "frequency": 2.128387937513392e-05
+  },
+  "响": {
+    "simplified": "响",
+    "traditional": "響",
+    "pinyin": "xiang3",
+    "definitions": [
+      "to make a sound"
+    ],
+    "frequency": 4.188214358832375e-05
+  },
+  "橡皮": {
+    "simplified": "橡皮",
+    "traditional": "橡皮",
+    "pinyin": "xiang4 pi2",
+    "definitions": [
+      "rubber, an eraser"
+    ],
+    "frequency": 2.086654840699404e-06
+  },
+  "消息": {
+    "simplified": "消息",
+    "traditional": "消息",
+    "pinyin": "xiao1 xi5",
+    "definitions": [
+      "news"
+    ],
+    "frequency": 0.0002487888757211032
+  },
+  "小吃": {
+    "simplified": "小吃",
+    "traditional": "小吃",
+    "pinyin": "xiao3 chi1",
+    "definitions": [
+      "snack; refreshments"
+    ],
+    "frequency": 2.8616980672448966e-06
+  },
+  "小伙子": {
+    "simplified": "小伙子",
+    "traditional": "小伙子",
+    "pinyin": "xiao3 huo3 zi5",
+    "definitions": [
+      "young guy"
+    ],
+    "frequency": 5.1689421339610946e-05
+  },
+  "小说": {
+    "simplified": "小说",
+    "traditional": "小說",
+    "pinyin": "xiao3 shuo1",
+    "definitions": [
+      "a novel"
+    ],
+    "frequency": 2.8944883575987444e-05
+  },
+  "笑话": {
+    "simplified": "笑话",
+    "traditional": "笑話",
+    "pinyin": "xiao4 hua5",
+    "definitions": [
+      "to laugh at"
+    ],
+    "frequency": 4.1941762298058014e-05
+  },
+  "效果": {
+    "simplified": "效果",
+    "traditional": "效果",
+    "pinyin": "xiao4 guo3",
+    "definitions": [
+      "positive result"
+    ],
+    "frequency": 3.8722351972407504e-05
+  },
+  "心情": {
+    "simplified": "心情",
+    "traditional": "心情",
+    "pinyin": "xin1 qing2",
+    "definitions": [
+      "mood"
+    ],
+    "frequency": 4.7844014561750614e-05
+  },
+  "辛苦": {
+    "simplified": "辛苦",
+    "traditional": "辛苦",
+    "pinyin": "xin1 ku3",
+    "definitions": [
+      "to be a lot of hard work, toilsome"
+    ],
+    "frequency": 2.7215940993693654e-05
+  },
+  "信封": {
+    "simplified": "信封",
+    "traditional": "信封",
+    "pinyin": "xin4 feng1",
+    "definitions": [
+      "envelope"
+    ],
+    "frequency": 9.777468396420064e-06
+  },
+  "信息": {
+    "simplified": "信息",
+    "traditional": "信息",
+    "pinyin": "xin4 xi1",
+    "definitions": [
+      "information; news; message"
+    ],
+    "frequency": 0.00011103984688007542
+  },
+  "信心": {
+    "simplified": "信心",
+    "traditional": "信心",
+    "pinyin": "xin4 xin1",
+    "definitions": [
+      "confidence"
+    ],
+    "frequency": 3.138925067509246e-05
+  },
+  "兴奋": {
+    "simplified": "兴奋",
+    "traditional": "興奮",
+    "pinyin": "xing1 fen4",
+    "definitions": [
+      "excited"
+    ],
+    "frequency": 7.464262458730438e-05
+  },
+  "行": {
+    "simplified": "行",
+    "traditional": "行",
+    "pinyin": "hang2",
+    "definitions": [
+      "all right, OK"
+    ],
+    "frequency": 0.0007759971259012411
+  },
+  "醒": {
+    "simplified": "醒",
+    "traditional": "醒",
+    "pinyin": "xing3",
+    "definitions": [
+      "to wake up"
+    ],
+    "frequency": 0.00016266964950995209
+  },
+  "幸福": {
+    "simplified": "幸福",
+    "traditional": "幸福",
+    "pinyin": "xing4 fu2",
+    "definitions": [
+      "happiness"
+    ],
+    "frequency": 6.411992231920597e-05
+  },
+  "性别": {
+    "simplified": "性别",
+    "traditional": "性別",
+    "pinyin": "xing4 bie2",
+    "definitions": [
+      "gender"
+    ],
+    "frequency": 6.528248715902421e-06
+  },
+  "性格": {
+    "simplified": "性格",
+    "traditional": "性格",
+    "pinyin": "xing4 ge2",
+    "definitions": [
+      "personality, character"
+    ],
+    "frequency": 1.8928940340630306e-05
+  },
+  "修理": {
+    "simplified": "修理",
+    "traditional": "修理",
+    "pinyin": "xiu1 li3",
+    "definitions": [
+      "to repair, to fix"
+    ],
+    "frequency": 1.5351817756574186e-05
+  },
+  "许多": {
+    "simplified": "许多",
+    "traditional": "許多",
+    "pinyin": "xu3 duo1",
+    "definitions": [
+      "many, numerous"
+    ],
+    "frequency": 6.003604070240856e-05
+  },
+  "学期": {
+    "simplified": "学期",
+    "traditional": "學期",
+    "pinyin": "xue2 qi1",
+    "definitions": [
+      "(school) semester"
+    ],
+    "frequency": 1.0612130332699825e-05
+  },
+  "压力": {
+    "simplified": "压力",
+    "traditional": "壓力",
+    "pinyin": "ya1 li4",
+    "definitions": [
+      "pressure"
+    ],
+    "frequency": 7.574557071738836e-05
+  },
+  "呀": {
+    "simplified": "呀",
+    "traditional": "呀",
+    "pinyin": "ya1",
+    "definitions": [
+      "[modal particle equivalent often used to express surprise or enthusiasm]"
+    ],
+    "frequency": 0.0003189600970783374
+  },
+  "牙膏": {
+    "simplified": "牙膏",
+    "traditional": "牙膏",
+    "pinyin": "ya2 gao1",
+    "definitions": [
+      "toothpaste"
+    ],
+    "frequency": 4.799306133608629e-06
+  },
+  "亚洲": {
+    "simplified": "亚洲",
+    "traditional": "亞洲",
+    "pinyin": "Ya4 zhou1",
+    "definitions": [
+      "Asia"
+    ],
+    "frequency": 1.222183549552508e-05
+  },
+  "严格": {
+    "simplified": "严格",
+    "traditional": "嚴格",
+    "pinyin": "yan2 ge2",
+    "definitions": [
+      "strict"
+    ],
+    "frequency": 2.0449217438854157e-05
+  },
+  "严重": {
+    "simplified": "严重",
+    "traditional": "嚴重",
+    "pinyin": "yan2 zhong4",
+    "definitions": [
+      "serious"
+    ],
+    "frequency": 9.27070936367878e-05
+  },
+  "研究": {
+    "simplified": "研究",
+    "traditional": "研究",
+    "pinyin": "yan2 jiu1",
+    "definitions": [
+      "to research"
+    ],
+    "frequency": 9.851991783587899e-05
+  },
+  "盐": {
+    "simplified": "盐",
+    "traditional": "鹽",
+    "pinyin": "yan2",
+    "definitions": [
+      "salt"
+    ],
+    "frequency": 1.2728594528266362e-05
+  },
+  "眼镜": {
+    "simplified": "眼镜",
+    "traditional": "眼鏡",
+    "pinyin": "yan3 jing4",
+    "definitions": [
+      "glasses"
+    ],
+    "frequency": 2.3817674538840338e-05
+  },
+  "演出": {
+    "simplified": "演出",
+    "traditional": "演出",
+    "pinyin": "yan3 chu1",
+    "definitions": [
+      "to perform"
+    ],
+    "frequency": 7.264539781120639e-05
+  },
+  "演员": {
+    "simplified": "演员",
+    "traditional": "演員",
+    "pinyin": "yan3 yuan2",
+    "definitions": [
+      "actor or actress"
+    ],
+    "frequency": 8.558265782354269e-05
+  },
+  "阳光": {
+    "simplified": "阳光",
+    "traditional": "陽光",
+    "pinyin": "yang2 guang1",
+    "definitions": [
+      "sunshine"
+    ],
+    "frequency": 3.356533358039327e-05
+  },
+  "养成": {
+    "simplified": "养成",
+    "traditional": "養成",
+    "pinyin": "yang3 cheng2",
+    "definitions": [
+      "to cultivate"
+    ],
+    "frequency": 1.222183549552508e-06
+  },
+  "样子": {
+    "simplified": "样子",
+    "traditional": "樣子",
+    "pinyin": "yang4 zi5",
+    "definitions": [
+      "appearance"
+    ],
+    "frequency": 0.00015909252692589598
+  },
+  "邀请": {
+    "simplified": "邀请",
+    "traditional": "邀請",
+    "pinyin": "yao1 qing3",
+    "definitions": [
+      "to invite; invitation"
+    ],
+    "frequency": 7.932269330144448e-05
+  },
+  "要是": {
+    "simplified": "要是",
+    "traditional": "要是",
+    "pinyin": "yao4 shi5",
+    "definitions": [
+      "if"
+    ],
+    "frequency": 8.105163588373826e-05
+  },
+  "钥匙": {
+    "simplified": "钥匙",
+    "traditional": "鑰匙",
+    "pinyin": "yao4 shi5",
+    "definitions": [
+      "key"
+    ],
+    "frequency": 0.00011181489010662091
+  },
+  "也许": {
+    "simplified": "也许",
+    "traditional": "也許",
+    "pinyin": "ye3 xu3",
+    "definitions": [
+      "perhaps, maybe"
+    ],
+    "frequency": 0.000777517402999465
+  },
+  "叶子": {
+    "simplified": "叶子",
+    "traditional": "葉子",
+    "pinyin": "ye4 zi5",
+    "definitions": [
+      "leaf"
+    ],
+    "frequency": 3.606931938923255e-06
+  },
+  "页": {
+    "simplified": "页",
+    "traditional": "頁",
+    "pinyin": "xie2",
+    "definitions": [
+      "page"
+    ],
+    "frequency": 3.3207621321987657e-05
+  },
+  "一切": {
+    "simplified": "一切",
+    "traditional": "一切",
+    "pinyin": "yi1 qie4",
+    "definitions": [
+      "everything"
+    ],
+    "frequency": 0.0006471312848106194
+  },
+  "以": {
+    "simplified": "以",
+    "traditional": "㕥",
+    "pinyin": "yi3",
+    "definitions": [
+      "with, using, by means of"
+    ],
+    "frequency": 0.00038999578972671856
+  },
+  "以为": {
+    "simplified": "以为",
+    "traditional": "以為",
+    "pinyin": "yi3 wei2",
+    "definitions": [
+      "to (mistakenly) think (that)"
+    ],
+    "frequency": 0.0004942987224068216
+  },
+  "艺术": {
+    "simplified": "艺术",
+    "traditional": "藝術",
+    "pinyin": "yi4 shu4",
+    "definitions": [
+      "art"
+    ],
+    "frequency": 4.2806233589204914e-05
+  },
+  "意见": {
+    "simplified": "意见",
+    "traditional": "意見",
+    "pinyin": "yi4 jian4",
+    "definitions": [
+      "opinion"
+    ],
+    "frequency": 8.126030136780821e-05
+  },
+  "因此": {
+    "simplified": "因此",
+    "traditional": "因此",
+    "pinyin": "yin1 ci3",
+    "definitions": [
+      "therefore, thus, as a result"
+    ],
+    "frequency": 8.483742395186432e-05
+  },
+  "引起": {
+    "simplified": "引起",
+    "traditional": "引起",
+    "pinyin": "yin3 qi3",
+    "definitions": [
+      "to lead to, to cause"
+    ],
+    "frequency": 4.9245054240505927e-05
+  },
+  "印象": {
+    "simplified": "印象",
+    "traditional": "印象",
+    "pinyin": "yin4 xiang4",
+    "definitions": [
+      "impression"
+    ],
+    "frequency": 5.240484585642217e-05
+  },
+  "赢": {
+    "simplified": "赢",
+    "traditional": "贏",
+    "pinyin": "ying2",
+    "definitions": [
+      "to win"
+    ],
+    "frequency": 0.0002492956347538445
+  },
+  "应聘": {
+    "simplified": "应聘",
+    "traditional": "應聘",
+    "pinyin": "ying4 pin4",
+    "definitions": [
+      "to apply for a job"
+    ],
+    "frequency": 2.086654840699404e-06
+  },
+  "永远": {
+    "simplified": "永远",
+    "traditional": "永遠",
+    "pinyin": "yong3 yuan3",
+    "definitions": [
+      "forever, eternal"
+    ],
+    "frequency": 0.00029916668544656026
+  },
+  "勇敢": {
+    "simplified": "勇敢",
+    "traditional": "勇敢",
+    "pinyin": "yong3 gan3",
+    "definitions": [
+      "brave"
+    ],
+    "frequency": 4.262737746000211e-05
+  },
+  "优点": {
+    "simplified": "优点",
+    "traditional": "優點",
+    "pinyin": "you1 dian3",
+    "definitions": [
+      "strong point, strength"
+    ],
+    "frequency": 7.482148071650719e-06
+  },
+  "优秀": {
+    "simplified": "优秀",
+    "traditional": "優秀",
+    "pinyin": "you1 xiu4",
+    "definitions": [
+      "outstanding, excellent"
+    ],
+    "frequency": 4.212061842726082e-05
+  },
+  "幽默": {
+    "simplified": "幽默",
+    "traditional": "幽默",
+    "pinyin": "you1 mo4",
+    "definitions": [
+      "humorous"
+    ],
+    "frequency": 1.6723048080462364e-05
+  },
+  "尤其": {
+    "simplified": "尤其",
+    "traditional": "尤其",
+    "pinyin": "you2 qi2",
+    "definitions": [
+      "especially"
+    ],
+    "frequency": 4.3640895525484675e-05
+  },
+  "由": {
+    "simplified": "由",
+    "traditional": "由",
+    "pinyin": "you2",
+    "definitions": [
+      "by way of; by"
+    ],
+    "frequency": 0.00017286444887451203
+  },
+  "由于": {
+    "simplified": "由于",
+    "traditional": "由於",
+    "pinyin": "you2 yu2",
+    "definitions": [
+      "since; because"
+    ],
+    "frequency": 4.483326972017005e-05
+  },
+  "邮局": {
+    "simplified": "邮局",
+    "traditional": "郵局",
+    "pinyin": "you2 ju2",
+    "definitions": [
+      "post office"
+    ],
+    "frequency": 4.829115488475763e-06
+  },
+  "友好": {
+    "simplified": "友好",
+    "traditional": "友好",
+    "pinyin": "You3 hao3",
+    "definitions": [
+      "friendly"
+    ],
+    "frequency": 1.9882839696378606e-05
+  },
+  "友谊": {
+    "simplified": "友谊",
+    "traditional": "友誼",
+    "pinyin": "you3 yi4",
+    "definitions": [
+      "friendship"
+    ],
+    "frequency": 1.9405890018504454e-05
+  },
+  "有趣": {
+    "simplified": "有趣",
+    "traditional": "有趣",
+    "pinyin": "you3 qu4",
+    "definitions": [
+      "interesting, amusing"
+    ],
+    "frequency": 0.00015787034337634345
+  },
+  "于是": {
+    "simplified": "于是",
+    "traditional": "於是",
+    "pinyin": "yu2 shi4",
+    "definitions": [
+      "thereupon"
+    ],
+    "frequency": 5.8128241990911965e-05
+  },
+  "愉快": {
+    "simplified": "愉快",
+    "traditional": "愉快",
+    "pinyin": "yu2 kuai4",
+    "definitions": [
+      "pleasant, happy"
+    ],
+    "frequency": 7.201940135899656e-05
+  },
+  "与": {
+    "simplified": "与",
+    "traditional": "與",
+    "pinyin": "yu2",
+    "definitions": [
+      "with, to"
+    ],
+    "frequency": 0.00040838816167974043
+  },
+  "羽毛球": {
+    "simplified": "羽毛球",
+    "traditional": "羽毛球",
+    "pinyin": "yu3 mao2 qiu2",
+    "definitions": [
+      "badminton, shuttlecock"
+    ],
+    "frequency": 7.154245168112242e-07
+  },
+  "语法": {
+    "simplified": "语法",
+    "traditional": "語法",
+    "pinyin": "yu3 fa3",
+    "definitions": [
+      "grammar"
+    ],
+    "frequency": 1.9674174212308664e-06
+  },
+  "语言": {
+    "simplified": "语言",
+    "traditional": "語言",
+    "pinyin": "yu3 yan2",
+    "definitions": [
+      "language"
+    ],
+    "frequency": 3.276048099898064e-05
+  },
+  "预习": {
+    "simplified": "预习",
+    "traditional": "預習",
+    "pinyin": "yu4 xi2",
+    "definitions": [
+      "to prepare for a lesson"
+    ],
+    "frequency": 2.086654840699404e-07
+  },
+  "原来": {
+    "simplified": "原来",
+    "traditional": "原來",
+    "pinyin": "yuan2 lai2",
+    "definitions": [
+      "formerly, original"
+    ],
+    "frequency": 8.883187750406033e-05
+  },
+  "原谅": {
+    "simplified": "原谅",
+    "traditional": "原諒",
+    "pinyin": "yuan2 liang4",
+    "definitions": [
+      "to forgive"
+    ],
+    "frequency": 0.00010132199719338962
+  },
+  "原因": {
+    "simplified": "原因",
+    "traditional": "原因",
+    "pinyin": "yuan2 yin1",
+    "definitions": [
+      "cause, reason"
+    ],
+    "frequency": 0.00023337743925479475
+  },
+  "约会": {
+    "simplified": "约会",
+    "traditional": "約會",
+    "pinyin": "yue1 hui4",
+    "definitions": [
+      "to date, to go to an appointment"
+    ],
+    "frequency": 0.0001868152269523309
+  },
+  "阅读": {
+    "simplified": "阅读",
+    "traditional": "閱讀",
+    "pinyin": "yue4 du2",
+    "definitions": [
+      "to read"
+    ],
+    "frequency": 9.866896461021466e-06
+  },
+  "云": {
+    "simplified": "云",
+    "traditional": "云",
+    "pinyin": "yun2",
+    "definitions": [
+      "cloud"
+    ],
+    "frequency": 1.0820795816769766e-05
+  },
+  "允许": {
+    "simplified": "允许",
+    "traditional": "允許",
+    "pinyin": "yun3 xu3",
+    "definitions": [
+      "to allow, to permit"
+    ],
+    "frequency": 8.149877620674528e-05
+  },
+  "杂志": {
+    "simplified": "杂志",
+    "traditional": "雜誌",
+    "pinyin": "za2 zhi4",
+    "definitions": [
+      "magazine"
+    ],
+    "frequency": 7.139340490678674e-05
+  },
+  "咱们": {
+    "simplified": "咱们",
+    "traditional": "咱們",
+    "pinyin": "zan2 men5",
+    "definitions": [
+      "we, us (you and I)"
+    ],
+    "frequency": 0.00019432718437884875
+  },
+  "暂时": {
+    "simplified": "暂时",
+    "traditional": "暫時",
+    "pinyin": "zan4 shi2",
+    "definitions": [
+      "temporary; temporarily"
+    ],
+    "frequency": 4.2269665201596495e-05
+  },
+  "脏": {
+    "simplified": "脏",
+    "traditional": "臟",
+    "pinyin": "zang4",
+    "definitions": [
+      "dirty"
+    ],
+    "frequency": 4.289566165380632e-05
+  },
+  "责任": {
+    "simplified": "责任",
+    "traditional": "責任",
+    "pinyin": "ze2 ren4",
+    "definitions": [
+      "responsibility"
+    ],
+    "frequency": 7.658023265366812e-05
+  },
+  "增加": {
+    "simplified": "增加",
+    "traditional": "增加",
+    "pinyin": "zeng1 jia1",
+    "definitions": [
+      "to add, to increase"
+    ],
+    "frequency": 2.796117486537201e-05
+  },
+  "占线": {
+    "simplified": "占线",
+    "traditional": "佔線",
+    "pinyin": "zhan4 xian4",
+    "definitions": [
+      "to be busy (telephone line)"
+    ],
+    "frequency": 8.644712911468958e-07
+  },
+  "招聘": {
+    "simplified": "招聘",
+    "traditional": "招聘",
+    "pinyin": "zhao1 pin4",
+    "definitions": [
+      "to seek applicants for a job"
+    ],
+    "frequency": 2.742460647776359e-06
+  },
+  "照": {
+    "simplified": "照",
+    "traditional": "炤",
+    "pinyin": "zhao4",
+    "definitions": [
+      "to take a picture"
+    ],
+    "frequency": 0.0001078204365544249
+  },
+  "真正": {
+    "simplified": "真正",
+    "traditional": "真正",
+    "pinyin": "zhen1 zheng4",
+    "definitions": [
+      "real, true"
+    ],
+    "frequency": 0.00021134832600798247
+  },
+  "整理": {
+    "simplified": "整理",
+    "traditional": "整理",
+    "pinyin": "zheng3 li3",
+    "definitions": [
+      "to organize, to tidy up"
+    ],
+    "frequency": 2.495043002379144e-05
+  },
+  "正常": {
+    "simplified": "正常",
+    "traditional": "正常",
+    "pinyin": "zheng4 chang2",
+    "definitions": [
+      "normal"
+    ],
+    "frequency": 0.0001276138481862021
+  },
+  "正好": {
+    "simplified": "正好",
+    "traditional": "正好",
+    "pinyin": "zheng4 hao3",
+    "definitions": [
+      "just happen to, by chance"
+    ],
+    "frequency": 6.307659489885627e-05
+  },
+  "正确": {
+    "simplified": "正确",
+    "traditional": "正確",
+    "pinyin": "zheng4 que4",
+    "definitions": [
+      "correct, right"
+    ],
+    "frequency": 9.714868751199082e-05
+  },
+  "正式": {
+    "simplified": "正式",
+    "traditional": "正式",
+    "pinyin": "zheng4 shi4",
+    "definitions": [
+      "formal"
+    ],
+    "frequency": 4.838058294935903e-05
+  },
+  "证明": {
+    "simplified": "证明",
+    "traditional": "證明",
+    "pinyin": "zheng4 ming2",
+    "definitions": [
+      "to prove"
+    ],
+    "frequency": 0.0001784686075895333
+  },
+  "之": {
+    "simplified": "之",
+    "traditional": "之",
+    "pinyin": "zhi1",
+    "definitions": [
+      "[possessive particle, literary equivalent of 的]"
+    ],
+    "frequency": 0.0004711070443201911
+  },
+  "支持": {
+    "simplified": "支持",
+    "traditional": "支持",
+    "pinyin": "zhi1 chi2",
+    "definitions": [
+      "to support"
+    ],
+    "frequency": 0.000114497732044663
+  },
+  "知识": {
+    "simplified": "知识",
+    "traditional": "知識",
+    "pinyin": "zhi1 shi5",
+    "definitions": [
+      "knowledge"
+    ],
+    "frequency": 1.7080760338867977e-05
+  },
+  "直接": {
+    "simplified": "直接",
+    "traditional": "直接",
+    "pinyin": "zhi2 jie1",
+    "definitions": [
+      "directly"
+    ],
+    "frequency": 0.0001306544023826498
+  },
+  "值得": {
+    "simplified": "值得",
+    "traditional": "值得",
+    "pinyin": "zhi2 de5",
+    "definitions": [
+      "to be worth (doing)"
+    ],
+    "frequency": 9.041177331201845e-05
+  },
+  "职业": {
+    "simplified": "职业",
+    "traditional": "職業",
+    "pinyin": "zhi2 ye4",
+    "definitions": [
+      "occupation"
+    ],
+    "frequency": 5.8575382313918974e-05
+  },
+  "植物": {
+    "simplified": "植物",
+    "traditional": "植物",
+    "pinyin": "zhi2 wu4",
+    "definitions": [
+      "plant"
+    ],
+    "frequency": 1.2937260012336304e-05
+  },
+  "只好": {
+    "simplified": "只好",
+    "traditional": "只好",
+    "pinyin": "zhi3 hao3",
+    "definitions": [
+      "to have to, to have no choice but to"
+    ],
+    "frequency": 1.7766375500812067e-05
+  },
+  "只要": {
+    "simplified": "只要",
+    "traditional": "只要",
+    "pinyin": "zhi3 yao4",
+    "definitions": [
+      "if only;so long as"
+    ],
+    "frequency": 0.0003051285564199871
+  },
+  "指": {
+    "simplified": "指",
+    "traditional": "指",
+    "pinyin": "zhi3",
+    "definitions": [
+      "to refer to"
+    ],
+    "frequency": 0.0001704797004851413
+  },
+  "至少": {
+    "simplified": "至少",
+    "traditional": "至少",
+    "pinyin": "zhi4 shao3",
+    "definitions": [
+      "at least"
+    ],
+    "frequency": 0.00020121314535315678
+  },
+  "质量": {
+    "simplified": "质量",
+    "traditional": "質量",
+    "pinyin": "zhi4 liang4",
+    "definitions": [
+      "quality; mass (in physics)"
+    ],
+    "frequency": 1.0731367752168362e-05
+  },
+  "重": {
+    "simplified": "重",
+    "traditional": "重",
+    "pinyin": "chong2",
+    "definitions": [
+      "heavy; strong (accent, scent, flavor, etc.)"
+    ],
+    "frequency": 0.0001514017133701753
+  },
+  "重点": {
+    "simplified": "重点",
+    "traditional": "重點",
+    "pinyin": "chong2 dian3",
+    "definitions": [
+      "emphasis; focal point"
+    ],
+    "frequency": 3.511542003348425e-05
+  },
+  "重视": {
+    "simplified": "重视",
+    "traditional": "重視",
+    "pinyin": "zhong4 shi4",
+    "definitions": [
+      "to attach importance to, to value"
+    ],
+    "frequency": 8.674522266336093e-06
+  },
+  "周围": {
+    "simplified": "周围",
+    "traditional": "周圍",
+    "pinyin": "zhou1 wei2",
+    "definitions": [
+      "surroundings, environment"
+    ],
+    "frequency": 5.7591673603303546e-05
+  },
+  "主意": {
+    "simplified": "主意",
+    "traditional": "主意",
+    "pinyin": "zhu3 yi5",
+    "definitions": [
+      "idea"
+    ],
+    "frequency": 0.00018314867630367338
+  },
+  "祝贺": {
+    "simplified": "祝贺",
+    "traditional": "祝賀",
+    "pinyin": "zhu4 he4",
+    "definitions": [
+      "to congratulate"
+    ],
+    "frequency": 4.712859004493939e-05
+  },
+  "著名": {
+    "simplified": "著名",
+    "traditional": "著名",
+    "pinyin": "zhu4 ming2",
+    "definitions": [
+      "famous"
+    ],
+    "frequency": 5.154037456527527e-05
+  },
+  "专门": {
+    "simplified": "专门",
+    "traditional": "專門",
+    "pinyin": "zhuan1 men2",
+    "definitions": [
+      "especially (for), specialized"
+    ],
+    "frequency": 2.196949453707801e-05
+  },
+  "专业": {
+    "simplified": "专业",
+    "traditional": "專業",
+    "pinyin": "zhuan1 ye4",
+    "definitions": [
+      "specialty, major"
+    ],
+    "frequency": 4.8142108110421956e-05
+  },
+  "转": {
+    "simplified": "转",
+    "traditional": "轉",
+    "pinyin": "zhuai3",
+    "definitions": [
+      "to revolve; to turn"
+    ],
+    "frequency": 0.0001455888891710841
+  },
+  "赚": {
+    "simplified": "赚",
+    "traditional": "賺",
+    "pinyin": "zhuan4",
+    "definitions": [
+      "to earn; to make a profit"
+    ],
+    "frequency": 5.8396526184716175e-05
+  },
+  "准确": {
+    "simplified": "准确",
+    "traditional": "準確",
+    "pinyin": "zhun3 que4",
+    "definitions": [
+      "accurate, precise"
+    ],
+    "frequency": 1.928665259903592e-05
+  },
+  "准时": {
+    "simplified": "准时",
+    "traditional": "準時",
+    "pinyin": "zhun3 shi2",
+    "definitions": [
+      "on time; punctual"
+    ],
+    "frequency": 1.606724227338541e-05
+  },
+  "仔细": {
+    "simplified": "仔细",
+    "traditional": "仔細",
+    "pinyin": "zi3 xi4",
+    "definitions": [
+      "careful"
+    ],
+    "frequency": 5.055666585465984e-05
+  },
+  "自然": {
+    "simplified": "自然",
+    "traditional": "自然",
+    "pinyin": "zi4 ran2",
+    "definitions": [
+      "natural"
+    ],
+    "frequency": 6.939617813068875e-05
+  },
+  "自信": {
+    "simplified": "自信",
+    "traditional": "自信",
+    "pinyin": "zi4 xin4",
+    "definitions": [
+      "to be self-confident"
+    ],
+    "frequency": 3.702321874498085e-05
+  },
+  "总结": {
+    "simplified": "总结",
+    "traditional": "總結",
+    "pinyin": "zong3 jie2",
+    "definitions": [
+      "to sum up"
+    ],
+    "frequency": 5.961870973426868e-06
+  },
+  "租": {
+    "simplified": "租",
+    "traditional": "租",
+    "pinyin": "zu1",
+    "definitions": [
+      "to rent"
+    ],
+    "frequency": 3.8215592939666224e-05
+  },
+  "最好": {
+    "simplified": "最好",
+    "traditional": "最好",
+    "pinyin": "zui4 hao3",
+    "definitions": [
+      "(you) had better (do something)"
+    ],
+    "frequency": 2.6977466154756576e-05
+  },
+  "尊重": {
+    "simplified": "尊重",
+    "traditional": "尊重",
+    "pinyin": "zun1 zhong4",
+    "definitions": [
+      "to respect"
+    ],
+    "frequency": 5.663777424755524e-05
+  },
+  "左右": {
+    "simplified": "左右",
+    "traditional": "左右",
+    "pinyin": "zuo3 you4",
+    "definitions": [
+      "left and right; approximately"
+    ],
+    "frequency": 3.410190196800168e-05
+  },
+  "作家": {
+    "simplified": "作家",
+    "traditional": "作家",
+    "pinyin": "zuo4 jia1",
+    "definitions": [
+      "writer"
+    ],
+    "frequency": 2.974973615740007e-05
+  },
+  "作用": {
+    "simplified": "作用",
+    "traditional": "作用",
+    "pinyin": "zuo4 yong4",
+    "definitions": [
+      "to act on; to affect"
+    ],
+    "frequency": 5.1838468113946613e-05
+  },
+  "作者": {
+    "simplified": "作者",
+    "traditional": "作者",
+    "pinyin": "zuo4 zhe3",
+    "definitions": [
+      "author, writer"
+    ],
+    "frequency": 1.3682493884014662e-05
+  },
+  "座": {
+    "simplified": "座",
+    "traditional": "座",
+    "pinyin": "zuo4",
+    "definitions": [
+      "[measure word for bridges, mountains, buildings]"
+    ],
+    "frequency": 9.336289944386476e-05
+  },
+  "座位": {
+    "simplified": "座位",
+    "traditional": "座位",
+    "pinyin": "zuo4 wei4",
+    "definitions": [
+      "seat"
+    ],
+    "frequency": 2.6500516476882428e-05
+  }
+}
