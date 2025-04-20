@@ -1,1 +1,66 @@
-{}
+{
+  "啊": {
+    "n": 2,
+    "ef": 2.5,
+    "interval": 6,
+    "due": "2025-04-26",
+    "date_added": "2025-04-20",
+    "phantom_last_score": 2.66
+  },
+  "重要": {
+    "n": 2,
+    "ef": 2.5,
+    "interval": 6,
+    "due": "2025-04-26",
+    "date_added": "2025-04-20",
+    "phantom_last_score": 2.9
+  },
+  "一直": {
+    "n": 2,
+    "ef": 2.7,
+    "interval": 6,
+    "due": "2025-04-26",
+    "date_added": "2025-04-20",
+    "phantom_last_score": 3.5
+  },
+  "马上": {
+    "n": 2,
+    "ef": 2.7,
+    "interval": 6,
+    "due": "2025-04-26",
+    "date_added": "2025-04-20",
+    "phantom_last_score": 3.5
+  },
+  "接": {
+    "n": 0,
+    "ef": 2.4,
+    "interval": 1,
+    "due": "2025-04-21",
+    "date_added": "2025-04-20",
+    "phantom_last_score": -2.0
+  },
+  "总是": {
+    "n": 2,
+    "ef": 2.5,
+    "interval": 6,
+    "due": "2025-04-26",
+    "date_added": "2025-04-20",
+    "phantom_last_score": 2.9
+  },
+  "为": {
+    "n": 2,
+    "ef": 2.22,
+    "interval": 6,
+    "due": "2025-04-26",
+    "date_added": "2025-04-20",
+    "phantom_last_score": 2.3
+  },
+  "先": {
+    "n": 2,
+    "ef": 2.7,
+    "interval": 6,
+    "due": "2025-04-26",
+    "date_added": "2025-04-20",
+    "phantom_last_score": 3.5
+  }
+}
